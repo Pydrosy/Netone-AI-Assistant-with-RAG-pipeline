@@ -1,0 +1,565 @@
+﻿# NETONE ZIMBABWE - TECHNICAL SUPPORT GUIDE
+
+## COMMON NETWORK ISSUES AND SOLUTIONS
+
+### No Network Signal
+**Symptoms:** No bars, "No Service" on phone
+
+**Troubleshooting Steps:**
+1. **Restart your phone** - This refreshes the connection to the network
+2. **Check coverage area** - Ensure you're in a Netone coverage zone
+3. **Toggle Airplane Mode** - Turn on for 10 seconds, then off
+4. **Manual network selection**:
+   - Go to Settings → Mobile Networks → Network Operators
+   - Select "Netone Zimbabwe" manually
+5. **Check SIM card** - Remove and reinsert, clean contacts
+6. **Update carrier settings** - iPhone: Settings → General → About
+7. **Reset network settings** - Android: Settings → General Management → Reset → Reset Network Settings
+
+**If issue persists:** Call 111 or visit nearest service center
+
+### Slow Internet Speed
+**Symptoms:** Web pages load slowly, videos buffer
+
+**Troubleshooting Steps:**
+1. **Check your data bundle** - Dial *123# to check remaining data
+2. **Check signal strength** - Move to area with better coverage
+3. **Close background apps** - Apps using data in background
+4. **Clear browser cache** - Settings → Apps → Browser → Clear Cache
+5. **Check APN settings**:
+   - APN: netone.internet
+   - Username: (leave blank)
+   - Password: (leave blank)
+   - Authentication type: PAP or CHAP
+6. **Reset APN to default** - Delete and recreate APN
+7. **Test at different times** - Peak hours (6-10 PM) may be slower
+
+**Expected speeds:**
+- 4G/LTE: 10-50 Mbps
+- 3G: 2-8 Mbps
+- 2G: 0.1-0.3 Mbps
+
+### Can't Send/Receive SMS
+**Symptoms:** Messages not sending, not receiving
+
+**Troubleshooting:**
+1. **Check message center number** - Should be +263 71 234 567
+2. **Check if number is blocked** - Settings → Blocked numbers
+3. **Clear messaging app cache** - Settings → Apps → Messages → Clear Cache
+4. **Check SMS bundle** - Dial *123# to check remaining SMS
+5. **Test with different recipient** - May be specific number issue
+
+### Call Connection Issues
+**Symptoms:** Calls drop, can't connect, poor audio quality
+
+**Troubleshooting:**
+1. **Check signal strength** - Low signal causes drops
+2. **Disable WiFi Calling** if enabled and unstable
+3. **Check if number is correct** - Dial carefully
+4. **Try calling different number** - Isolate the issue
+5. **Check call barring settings** - Settings → Call Settings → Call Barring
+
+### Can't Access Internet After Bundle Purchase
+**Symptoms:** Data not working even after buying bundle
+
+**Solutions:**
+1. **Restart your phone** - Refreshes network connection
+2. **Toggle mobile data** - Turn off, wait 10 seconds, turn on
+3. **Check if bundle activated** - Dial *123# to check balance
+4. **Wait 10-15 minutes** - Sometimes activation takes time
+5. **Remove and reinsert SIM** - During active data session
+6. **Check if data roaming is on** (if outside home area)
+
+## DEVICE-SPECIFIC SETTINGS
+
+### Android APN Settings
+**Path:** Settings → Connections → Mobile Networks → Access Point Names
+
+**Create new APN:**
+- Name: Netone Internet
+- APN: netone.internet
+- Proxy: Not set
+- Port: Not set
+- Username: Not set
+- Password: Not set
+- Server: Not set
+- MMSC: Not set
+- MMS Proxy: Not set
+- MMS Port: Not set
+- MCC: 648
+- MNC: 04
+- Authentication type: PAP or CHAP
+- APN type: default,supl,mms
+- APN protocol: IPv4/IPv6
+- APN roaming protocol: IPv4
+- Bearer: Unspecified
+
+**Save and select this APN**
+
+### iPhone APN Settings
+**Note:** iOS may not allow manual APN configuration without carrier profile
+
+**For newer iPhones:**
+- APN settings are automatically configured from SIM card
+- If needed, install carrier profile from Netone website
+
+**For older iPhones:**
+1. Go to Settings → Cellular → Cellular Data Network
+2. Enter:
+   - APN: netone.internet
+   - Username: (blank)
+   - Password: (blank)
+
+### Windows Phone Settings
+1. Go to Settings → Network & Wireless → Cellular & SIM
+2. Select SIM settings
+3. Add Internet APN:
+   - APN: netone.internet
+   - Username: (blank)
+   - Password: (blank)
+   - Type: IPv4
+
+## USSD CODES REFERENCE
+
+| Service | USSD Code |
+|---------|-----------|
+| Check Balance | *123# |
+| Buy Data Bundle | *123*1# |
+| Buy Voice Bundle | *123*2# |
+| Buy OneFusion | *123*3# |
+| OneOne Bundles | *123*4# |
+| Check Data Usage | *124# |
+| Check Airtime Balance | *125# |
+| OneMoney Menu | *151# |
+| Customer Care | *111# |
+| Call Me Back | *140*[number]# |
+| Roaming Services | *126# |
+| Activate Roaming | *126*1# |
+| Deactivate Roaming | *126*0# |
+| Check Roaming Rates | *126*2# |
+| My Number | *130# |
+| Transfer Airtime | *127*[amount]*[number]# |
+| Buy for Someone | *128*[amount]*[number]# |
+| Check Promotions | *129# |
+| Stop Services | *133# |
+| Help Menu | *100# |
+
+## ONEONE BUNDLES DETAILS
+
+### Daily OneOne Deals
+| Code | Bundle | Price | Validity | Activation Code |
+|------|--------|-------|----------|-----------------|
+| D100 | 100MB | .40 | 24 hours | *123*4*1# |
+| D200 | 200MB + 10 min | .70 | 24 hours | *123*4*2# |
+| D500 | 500MB + 25 min | .20 | 24 hours | *123*4*3# |
+
+### Weekly OneOne Specials
+| Code | Bundle | Price | Validity | Activation Code |
+|------|--------|-------|----------|-----------------|
+| W2GB | 2GB | .00 | 7 days | *123*4*4# |
+| W5GB | 5GB + 50 min | .50 | 7 days | *123*4*5# |
+| W10GB | 10GB + 100 min + 100 SMS | .00 | 7 days | *123*4*6# |
+
+### Monthly OneOne Offers
+| Code | Bundle | Price | Validity | Activation Code |
+|------|--------|-------|----------|-----------------|
+| M10GB | 10GB | .00 | 30 days | *123*4*7# |
+| M25GB | 25GB + 200 min | .00 | 30 days | *123*4*8# |
+| M50GB | 50GB + 500 min + 500 SMS | .00 | 30 days | *123*4*9# |
+
+## DATA BUNDLE ACTIVATION
+
+### Daily Bundles
+| Bundle | Activation Code |
+|--------|-----------------|
+| 100MB Daily | *123*1*1# |
+| 350MB Daily | *123*1*2# |
+| 750MB Daily | *123*1*3# |
+| 1.5GB Daily | *123*1*4# |
+
+### Weekly Bundles
+| Bundle | Activation Code |
+|--------|-----------------|
+| 1GB Weekly | *123*1*5# |
+| 3GB Weekly | *123*1*6# |
+| 6GB Weekly | *123*1*7# |
+| 10GB Weekly | *123*1*8# |
+
+### Monthly Bundles
+| Bundle | Activation Code |
+|--------|-----------------|
+| 5GB Monthly | *123*1*9# |
+| 12GB Monthly | *123*1*10# |
+| 25GB Monthly | *123*1*11# |
+| 50GB Monthly | *123*1*12# |
+| 100GB Monthly | *123*1*13# |
+
+## VOICE BUNDLE ACTIVATION
+
+| Bundle | Activation Code |
+|--------|-----------------|
+| 10 min Daily | *123*2*1# |
+| 30 min Daily | *123*2*2# |
+| 60 min Daily | *123*2*3# |
+| 50 min Weekly | *123*2*4# |
+| 150 min Weekly | *123*2*5# |
+| 300 min Weekly | *123*2*6# |
+| 200 min Monthly | *123*2*7# |
+| 500 min Monthly | *123*2*8# |
+| 1000 min Monthly | *123*2*9# |
+
+## COMBINATION BUNDLE ACTIVATION
+
+| Bundle | Activation Code |
+|--------|-----------------|
+| Daily S Combo | *123*3*1# |
+| Daily M Combo | *123*3*2# |
+| Daily L Combo | *123*3*3# |
+| Weekly S Combo | *123*3*4# |
+| Weekly M Combo | *123*3*5# |
+| Weekly L Combo | *123*3*6# |
+| Monthly S Combo | *123*3*7# |
+| Monthly M Combo | *123*3*8# |
+| Monthly L Combo | *123*3*9# |
+
+## ONEMONEY SERVICES
+
+### OneMoney Registration
+1. Dial *151# from your Netone line
+2. Select "Register for OneMoney"
+3. Enter your name as per ID
+4. Create a 4-digit PIN
+5. Confirm PIN
+6. You'll receive confirmation SMS
+
+### OneMoney Transactions
+
+**Send Money:**
+1. Dial *151*2#
+2. Enter recipient's mobile number
+3. Enter amount
+4. Enter PIN
+5. Confirm transaction
+
+**Buy Airtime:**
+1. Dial *151*3#
+2. Select "My number" or "Other number"
+3. Enter amount
+4. Enter PIN
+5. Confirm
+
+**Pay Bills:**
+1. Dial *151*4#
+2. Select biller (ZESA, TelOne, etc.)
+3. Enter account number
+4. Enter amount
+5. Enter PIN
+6. Confirm
+
+**Check Balance:**
+1. Dial *151*5#
+2. Enter PIN
+3. View balance
+
+**Change PIN:**
+1. Dial *151*6#
+2. Enter old PIN
+3. Enter new PIN
+4. Confirm new PIN
+
+### OneMoney Transaction Limits
+| Tier | Daily Limit | Per Transaction | Requirements |
+|------|-------------|-----------------|--------------|
+| Tier 1 |  |  | None (basic) |
+| Tier 2 |  |  | ID registration |
+| Tier 3 | ,000 |  | Full KYC |
+| Tier 4 | ,000 | ,000 | Business registration |
+
+### OneMoney Fees
+| Transaction | Fee |
+|-------------|-----|
+| Cash-in | Free at Netone shops |
+| Cash-out (agent) | 2% (min .20) |
+| Send to OneMoney | Free |
+| Send to other wallets | .10 |
+| Bill payment | Free |
+| Merchant payment | Free |
+| Buy airtime | Free |
+| Balance inquiry | Free |
+| PIN change | Free |
+
+## ROAMING SERVICES
+
+### Activate Roaming
+1. Ensure you have airtime/data bundle
+2. Dial *126*1#
+3. Select "Activate Roaming"
+4. You'll receive confirmation SMS
+
+### Roaming Rates by Zone
+
+**Zone 1 (SADC):** South Africa, Botswana, Zambia, Mozambique, Namibia
+- Voice: .50/min
+- SMS: .15/SMS
+- Data: .00/MB
+
+**Zone 2 (Africa):** Kenya, Nigeria, Tanzania, Uganda, Rwanda
+- Voice: .80/min
+- SMS: .20/SMS
+- Data: .50/MB
+
+**Zone 3 (Europe):** UK, Germany, France, Italy, Spain
+- Voice: .00/min
+- SMS: .25/SMS
+- Data: .00/MB
+
+**Zone 4 (North America):** USA, Canada
+- Voice: .00/min
+- SMS: .25/SMS
+- Data: .00/MB
+
+**Zone 5 (Asia):** India, China, Japan, UAE
+- Voice: .20/min
+- SMS: .30/SMS
+- Data: .50/MB
+
+### Roaming Bundles
+| Bundle | Price | Validity | Activation Code |
+|--------|-------|----------|-----------------|
+| Travel Pass 1 Day | .00 | 24 hours | *126*2*1# |
+| Travel Pass 3 Days | .00 | 72 hours | *126*2*2# |
+| Travel Pass 7 Days | .00 | 7 days | *126*2*3# |
+| Travel Pass 30 Days | .00 | 30 days | *126*2*4# |
+
+### Roaming Tips
+- Activate roaming BEFORE traveling
+- Purchase roaming bundle for best rates
+- Use Wi-Fi when available to save data
+- Check rates before making calls
+- Disable data roaming if not using
+
+## SERVICE CENTER LOCATIONS
+
+### Harare
+| Center | Address | Hours |
+|--------|---------|-------|
+| Headquarters | Sam Nujoma Street | 8AM-5PM Mon-Fri |
+| Joina City | Ground Floor | 9AM-6PM Mon-Sat |
+| Westgate | Shop 15 | 9AM-6PM Mon-Sat |
+| Avondale | Shop 8 | 9AM-6PM Mon-Sat |
+| UZ Campus | Main Campus | 9AM-4PM Mon-Fri |
+
+### Bulawayo
+| Center | Address | Hours |
+|--------|---------|-------|
+| Fife Street | Corner Fife/9th Ave | 8AM-5PM Mon-Fri |
+| Bulawayo Centre | Shop 25 | 9AM-6PM Mon-Sat |
+| NUST | Campus | 9AM-4PM Mon-Fri |
+
+### Other Cities
+| City | Address |
+|------|---------|
+| Mutare | Robert Mugabe Road |
+| Gweru | Main Street |
+| Kwekwe | Senga Road |
+| Masvingo | Robert Mugabe Road |
+| Chinhoyi | Magamba Way |
+| Bindura | Shamva Road |
+| Victoria Falls | Livingstone Way |
+| Hwange | Station Road |
+| Kariba | Kariba Heights |
+| Marondera | Church Street |
+
+## CUSTOMER SUPPORT CHANNELS
+
+**Call Center:** 111 (toll-free from Netone)
+**International:** +263 78 200 1111
+
+**WhatsApp:** +263 78 200 1111
+**SMS Support:** 111 (text your query)
+
+**Email:** 
+- General: care@netone.co.zw
+- Technical: support@netone.co.zw
+- Billing: billing@netone.co.zw
+- OneMoney: onemoney@netone.co.zw
+
+**Social Media:**
+- Facebook: @NetoneZimbabwe
+- Twitter/X: @NetoneZim
+- Instagram: @netone_zim
+- YouTube: Netone Zimbabwe
+
+**Self-Service:**
+- USSD: *111#
+- MyNetone App (Play Store/App Store)
+- Website: www.netone.co.zw
+
+## ACCOUNT MANAGEMENT
+
+### Check Balance
+- Dial *123#
+
+### Check Data Usage
+- Dial *124#
+
+### Check Airtime Balance
+- Dial *125#
+
+### View Bill (Postpaid)
+- Dial *126#
+- MyNetone App
+- Website portal
+
+### Change Language
+- Dial *133#
+- Select language preference
+
+### Bar Services
+- Dial *133# to stop services
+- Select services to bar
+
+### Unbar Services
+- Dial *133# again
+- Select services to restore
+
+## BILLING AND PAYMENTS
+
+### Payment Methods
+1. **Airtime recharge cards** - Buy from any Netone outlet
+2. **Electronic recharge** - Via agents
+3. **OneMoney** - From your OneMoney wallet
+4. **EcoCash** - Recharge via EcoCash
+5. **Bank apps** - CBZ, Steward, NMB, FBC
+6. **Website** - Online recharge
+7. **MyNetone App** - Instant recharge
+
+### Postpaid Billing
+- Bills generated on 25th of each month
+- Payment due by 5th of following month
+- Late payment fee: .00
+- Disconnection after 30 days overdue
+- Reconnection fee: .00
+
+### Auto-Recharge
+Set up auto-recharge via MyNetone App:
+1. Login to MyNetone
+2. Go to "Auto-Recharge"
+3. Select bundle
+4. Set payment method
+5. Confirm
+
+## FREQUENTLY ASKED QUESTIONS
+
+### General FAQs
+
+**Q: How do I get my Netone number?**
+A: Dial *130# and it will display your number
+
+**Q: How do I check my phone's IMEI?**
+A: Dial *#06#
+
+**Q: How do I check network coverage in my area?**
+A: Visit www.netone.co.zw/coverage or call 111
+
+**Q: What should I do if my SIM card is lost/stolen?**
+A: Visit nearest service center with ID for replacement
+
+**Q: How long does SIM replacement take?**
+A: Immediate, fee .00
+
+### Data FAQs
+
+**Q: Why is my data finishing quickly?**
+A: Check background apps, video streaming, auto-updates
+
+**Q: Does unused data roll over?**
+A: Only on selected premium bundles
+
+**Q: Can I share my data with others?**
+A: Yes, via OneMoney or data gifting feature
+
+**Q: How do I check data balance?**
+A: Dial *124#
+
+**Q: What is 4G+?**
+A: Enhanced 4G with speeds up to 200 Mbps
+
+### OneMoney FAQs
+
+**Q: Is OneMoney free?**
+A: Registration is free, some transactions have fees
+
+**Q: How do I reset my PIN?**
+A: Visit any Netone service center with ID
+
+**Q: Can I send money to EcoCash?**
+A: Yes, interoperability is available
+
+**Q: What if I enter wrong PIN?**
+A: After 3 wrong attempts, account is locked for 24 hours
+
+**Q: Is my money safe?**
+A: Yes, insured by Deposit Protection Corporation
+
+### Roaming FAQs
+
+**Q: Do I need to activate roaming before traveling?**
+A: Yes, activate at least 24 hours before
+
+**Q: Can I use my bundles while roaming?**
+A: No, roaming has separate rates
+
+**Q: How do I check roaming rates?**
+A: Dial *126*2#
+
+**Q: Will I receive SMS while roaming?**
+A: Yes, standard SMS rates apply
+
+**Q: Can I call customer care while roaming?**
+A: Yes, +263 78 200 1111
+
+## GLOSSARY OF TERMS
+
+| Term | Meaning |
+|------|---------|
+| APN | Access Point Name - settings for internet connection |
+| Bundle | Package of data/voice/SMS at discounted price |
+| CSR | Customer Service Representative |
+| GB | Gigabyte - data measurement (1024 MB) |
+| KYC | Know Your Customer - identity verification |
+| LTE | Long Term Evolution - 4G technology |
+| MB | Megabyte - data measurement |
+| MNO | Mobile Network Operator |
+| PIN | Personal Identification Number |
+| POTRAZ | Postal and Telecommunications Regulatory Authority |
+| SIM | Subscriber Identity Module |
+| SMS | Short Message Service |
+| USSD | Unstructured Supplementary Service Data |
+| VAS | Value Added Service |
+| ZWL | Zimbabwe Dollar (local currency) |
+
+## CONTACT ESCALATION
+
+If your issue isn't resolved:
+
+**Level 1:** Customer Care (111)
+**Level 2:** Supervisor (request escalation)
+**Level 3:** Customer Relations (care@netone.co.zw)
+**Level 4:** Executive Office (executive@netone.co.zw)
+**Level 5:** POTRAZ (complaints@potraz.gov.zw)
+
+## SERVICE STATUS CODES
+
+| Code | Meaning |
+|------|---------|
+| 200 | Service active |
+| 201 | Bundle active |
+| 202 | Bundle expired |
+| 203 | Insufficient balance |
+| 204 | Service suspended |
+| 205 | Invalid request |
+| 206 | Processing error |
+| 207 | Network busy |
+
+*Last Updated: March 2026*

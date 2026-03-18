@@ -1,0 +1,212 @@
+﻿# NETONE ZIMBABWE - SIM CARD INFORMATION GUIDE
+
+## WHERE TO PURCHASE A NETONE SIM CARD
+
+You can purchase a NetOne SIM card from any of the following locations:
+
+- **NetOne Shops** - Official retail outlets nationwide
+- **NetOne Franchisees** - Authorized franchise partners
+- **Zimpost Outlets** - Selected Post Office branches
+- **NetOne Dealers** - Authorized dealers and agents
+
+**Requirements:**
+- Valid National ID card or passport
+- USD  or ZWG equivalent (SIM card cost)
+
+🔍 **Find a shop:** Use the NetOne Shop Locator at https://selfservice.netone.co.zw/shop-locator
+
+## SIM CARD COST
+A NetOne SIM card costs **USD  or ZWG equivalent**.
+
+## SIM CARD ACTIVATION
+
+### New SIM Card Not Working?
+If your new SIM card isn't working, you may need to:
+
+1. **Ensure proper insertion** - Make sure the SIM is correctly placed in the tray
+2. **Restart your phone** - Power cycle your device
+3. **Check for configuration settings** - See APN settings below
+4. **Contact support** if issues persist
+
+## APN SETTINGS (Internet Configuration)
+
+If you're not receiving automatic configuration settings, manually configure your phone:
+
+### For Android Devices:
+1. Go to **Settings** > **Mobile Networks** > **More Networks** > **Access Point Names**
+2. Tap **Add** or **+** to create new APN
+3. Enter the following settings:
+   - **Name:** netone
+   - **APN:** internet.netone
+   - **APN Type:** default
+4. Save the settings
+5. Restart your phone
+
+### For iPhone Devices:
+
+**Method 1 - iOS 15+**
+1. Go to **Settings** > **Cellular** > **Cellular Data Network**
+2. Under **Cellular Data**, enter:
+   - **APN:** internet.netone
+3. Scroll down to **LTE Setup** (if available):
+   - **APN:** internet.netone
+4. Go back and ensure Cellular Data is enabled
+
+**Method 2 - iOS 14 and earlier**
+1. Go to **Settings** > **Mobile Data** > **Mobile Data Network**
+2. Under **Mobile Data**, enter:
+   - **APN:** internet.netone
+3. Scroll down to **LTE Setup**:
+   - **APN:** internet.netone
+
+**Important:** Type everything in **small letters** (lowercase).
+
+## CHECKING ACCOUNT BALANCE
+
+### ZWG Balance:
+- Dial **\*171#** then select "Balance Enquiry"
+
+### USD Balance:
+- Dial **\*379#**
+
+### General Balance Enquiry:
+- Dial **\*123#** then select "Balance Enquiry"
+- Use the Self-Service Portal: https://selfservice.netone.co.zw
+
+## OUT OF BUNDLE BROWSING
+
+To activate or deactivate Out of Bundle Browsing (OBB):
+
+1. Dial **\*130#**
+2. Select "Block OBB" or "Unblock OBB"
+3. Restart your device after making changes
+
+## SIM CARD PIN MANAGEMENT
+
+### How to Change SIM PIN:
+- Dial: **\*\*04\*Old PIN\*New PIN\*New PIN#**
+
+**Example:** To change from default PIN 0000 to 1111:
+- Dial: **\*\*04\*0000\*1111\*1111#**
+
+### Default SIM PIN:
+- Usually set to **0000** or **1234** (check your SIM packaging)
+
+### What to do if you forget your PIN:
+- Do NOT enter wrong PIN multiple times (SIM will block after 3 attempts)
+- If blocked, you'll need a PUK code from customer care
+
+## RECHARGING YOUR SIM CARD
+
+### Using a Recharge Card:
+1. Scratch off the panel to reveal the hidden PIN
+2. Dial **\*171#**
+3. Select "Airtime Recharge"
+4. Select "Self"
+5. Enter the recharge PIN
+6. Confirm
+
+### Using OneMoney:
+1. Dial **\*111#**
+2. Select "Buy Airtime and Bundles"
+3. Choose amount
+4. Confirm with your PIN
+
+### Quick Recharge USSD:
+- Dial **\*133\*PIN#** (replace PIN with your recharge card number)
+
+## SIM CARD REPLACEMENT
+
+### Requirements for SIM Replacement:
+1. **Positive identification** - National ID or valid passport
+2. **Full registration** - SIM must be fully registered in your name
+3. **Replacement fee** - USD  (or ZWG equivalent)
+
+### Process:
+1. Visit your nearest NetOne shop
+2. Present your ID
+3. Pay the replacement fee
+4. Receive new SIM with same number
+
+### If You Lost Your SIM Card:
+
+**For Prepaid SIM Cards:**
+- Visit your nearest NetOne shop immediately
+- Request SIM card replacement
+- Your account will be protected
+
+**For Postpaid SIM Cards:**
+1. Call Customer Care immediately to request **Temporary Suspension**
+2. Visit a NetOne shop for SIM card replacement
+3. Service will be restored on the new SIM
+
+## SIM CARD REPLACEMENT NOT WORKING
+
+If you've done a SIM card replacement but your new SIM is not working, contact Customer Care with the following details:
+
+### Information Needed:
+- Your full names
+- ID number
+- Physical address
+- Date of birth
+- Phone number of the SIM (the number you're trying to use)
+- Serial number on the new SIM card
+- Alternative contact number
+- Name of the shop where replacement was done
+
+### Contact Options:
+
+📞 **Toll-Free:** 123 (from Netone lines)
+
+📱 **WhatsApp Support:**
+- +263 71 695 6243
+- +263 71 695 6329
+- +263 71 695 6393
+- +263 71 695 6301
+- +263 71 298 0198
+- +263 71 695 6378
+
+📘 **Facebook:** https://www.facebook.com/netonezimbabwe
+
+🐦 **X (Twitter):** https://x.com/NetOneCellular
+
+## CAN SOMEONE ELSE REPLACE MY SIM CARD?
+
+**No.** The law requires SIM card replacements to be done only by the registered owner of the SIM card after positive identification.
+
+- You cannot send a friend or relative with their ID to replace your SIM
+- The owner must appear in person with their own ID
+- This is a security measure to protect your account
+
+## NEW SIM/HANDSET CONFIGURATION ISSUES
+
+If you bought a new SIM or handset and aren't receiving automatic configuration settings:
+
+1. **Manually configure APN** using the settings above
+2. **Restart your phone** after configuration
+3. **Test internet connection**
+4. If still not working, contact customer care
+
+## SIM CARD SECURITY TIPS
+
+- Keep your PIN confidential
+- Don't share your PUK code with anyone
+- Report lost/stolen SIMs immediately
+- Ensure SIM is fully registered in your name
+- Buy SIM cards only from authorized dealers
+
+## QUICK REFERENCE USSD CODES
+
+| Service | USSD Code |
+|---------|-----------|
+| Check ZWG Balance | *171# |
+| Check USD Balance | *379# |
+| General Balance | *123# |
+| Recharge Menu | *171# |
+| Quick Recharge | *133*PIN# |
+| OneMoney Menu | *111# |
+| Block/Unblock OBB | *130# |
+| Change SIM PIN | **04*Old*New*New# |
+| Customer Care | 123 |
+
+*Last Updated: March 2026*

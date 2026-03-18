@@ -1,0 +1,49 @@
+﻿# NETONE - COMPREHENSIVE SHONA QUERY MAPPING
+
+## ALL SHONA TOURIST SIM QUERIES MAP TO THESE ANSWERS
+
+### Query: "Tourist SIM inodhura here?"
+**Meaning:** Is the Tourist SIM expensive?
+**Answer:** SIM pachayo ndeye MAHARA (FREE). Haubhadhare SIM, unobhadhara bundle chete.
+**Prices:**  (3GB),  (5GB),  (10GB) - 30 mazuva
+
+### Query: "Ndinowana kupi Tourist SIM?"
+**Meaning:** Where do I get the Tourist SIM?
+**Answer:** Unogona kuwana Tourist SIM paNetOne shop iri paairport paunosvika muZimbabwe.
+
+### Query: "Ndinoda SIM yevashanyi"
+**Meaning:** I want a tourist SIM
+**Answer:** Enda kuNetOne shop paairport uine passport yako. Vachakupa SIM mahara.
+
+### Query: "SIM yevashanyi iripi?"
+**Meaning:** Where is the tourist SIM?
+**Answer:** PaNetOne shop iri paairport.
+
+### Query: "Ndinoda chii kuti ndiwane SIM?"
+**Meaning:** What do I need to get the SIM?
+**Answer:** Unongoda passport yako yekunze iri kushanda.
+
+### Query: "Ndingaishandisa SIM iyi kwenguva yakareba sei?"
+**Meaning:** How long can I use this SIM?
+**Answer:** SIM inoshanda kwemazuva 90. Mabundle anoshanda kwemazuva 30.
+
+### Query: "Ko kana ndoda kuwedzera data?"
+**Meaning:** What if I want to add more data?
+**Answer:** Tenga bundle imwe uchishandisa *401#.
+
+## IMPORTANT: ALL THESE QUERIES ARE ABOUT TOURIST SIM
+Any question containing these Shona words should return Tourist SIM information:
+- "Tourist SIM"
+- "SIM yevashanyi"
+- "inodhura"
+- "ndinowana kupi"
+- "ndinoda SIM"
+- "iripi"
+- "paairport"
+- "passport"
+- "*401#"
+
+## STANDARD TOURIST SIM ANSWER TEMPLATE:
+The Tourist SIM is FREE and available at the airport. You only need your passport. Bundles cost  (3GB),  (5GB), or  (10GB) and are valid for 30 days. Activate with *401#.
+
+This document maps ALL Shona tourist SIM queries to the correct information.

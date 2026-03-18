@@ -1,0 +1,231 @@
+﻿# NETONE ZIMBABWE - AIRTIME & SCRATCH CARD GUIDE
+
+## WHAT IS A SCRATCH CARD?
+A scratch card (also called a recharge voucher or airtime card) is a physical card with a hidden PIN that you scratch to reveal and use to add credit (airtime) to your Netone mobile line.
+
+## SCRATCH CARD DENOMINATIONS
+
+Netone scratch cards are available in the following denominations:
+
+| Amount (USD) | Bonus Airtime | Validity |
+|--------------|---------------|----------|
+| .50 | No bonus | 24 hours |
+| .00 | No bonus | 3 days |
+| .00 | 10% bonus | 7 days |
+| .00 | 15% bonus | 14 days |
+| .00 | 20% bonus | 30 days |
+| .00 | 25% bonus | 30 days |
+| .00 | 30% bonus | 60 days |
+
+## HOW TO RECHARGE USING A SCRATCH CARD
+
+### Method 1: USSD Quick Recharge
+- Dial: **\*133\*PIN#** (replace PIN with the number under the scratch-off area)
+- Example: If your PIN is 1234567890, dial \*133\*1234567890#
+- You will receive a confirmation SMS once recharge is successful
+
+### Method 2: USSD Menu Recharge
+1. Dial **\*171#** from your Netone line
+2. Select option **6** for "Airtime Recharge"
+3. Select option **1** for "Self" (recharge your own number)
+4. Enter the voucher PIN from your scratch card
+5. Press Confirm
+6. Wait for confirmation SMS
+
+### Method 3: Recharge for Someone Else
+1. Dial **\*171#** from your Netone line
+2. Select option **6** for "Airtime Recharge"
+3. Select option **2** for "Other" (recharge another number)
+4. Enter the recipient's phone number
+5. Enter the voucher PIN from your scratch card
+6. Press Confirm
+7. Both you and the recipient will receive confirmation SMS
+
+### Method 4: One-Step Recharge for Others
+- Dial: **\*133\*PIN\*RecipientNumber#**
+- Example: To recharge 0771234567 with PIN 1234567890, dial: \*133\*1234567890\*0771234567#
+- This method recharges the specified number directly
+
+## WHERE TO BUY SCRATCH CARDS
+
+Netone scratch cards are available at:
+- **Netone Service Centers** - All major branches nationwide
+- **Netone Agents** - Authorized dealers with "Netone Agent" signage
+- **Supermarkets** - OK, TM, Spar, Pick n Pay, Food Lovers Market
+- **Fuel Stations** - Total, Engen, Puma, Zuva
+- **Small Shops** - Tuck shops and convenience stores nationwide
+- **Online** - via OneDigital Shop (www.onedigital.co.zw)
+
+## SCRATCH CARD TROUBLESHOOTING
+
+### "Over Scratched" Card - What to Do
+
+If you have scratched your card too hard and damaged the PIN:
+
+**Problem:** You've scratched off the coating but also damaged some digits of the PIN
+
+**Solutions:**
+
+1. **Check carefully** - Sometimes digits are only partially damaged and can still be read by looking at the shape
+
+2. **Look at the card under good light** - Hold at different angles, the digits might still be visible
+
+3. **Check the card packaging** - Some cards have the PIN printed inside the packaging as well
+
+4. **Visit any Netone Service Center** - Bring the damaged card and your ID. Staff can verify the card and help retrieve the PIN
+
+5. **Contact Customer Care** - Call 111 and explain the situation. They may be able to help if you can provide:
+   - The card serial number (usually printed on the card)
+   - The purchase receipt (if you have it)
+   - Approximate date and location of purchase
+
+### Common Scratch Card Error Messages
+
+| Error Message | Meaning | Solution |
+|---------------|---------|----------|
+| "Invalid PIN" | The PIN entered is incorrect | Check the PIN carefully, try again |
+| "PIN already used" | This card has already been recharged | You may have received a used card, return to point of purchase |
+| "PIN expired" | The card has passed its expiry date | Check expiry date on card, return to point of purchase if within date |
+| "Network error" | Technical issue with network | Try again after 10-15 minutes |
+| "Insufficient balance" | Not applicable for recharge | This error shouldn't appear, contact customer care |
+| "Transaction failed" | General failure | Try again, if persists contact customer care |
+
+### Card Purchased But Not Working
+
+If you bought a card and it doesn't work:
+
+1. **Keep the card** - Do not throw it away
+2. **Keep the receipt** - If you have it
+3. **Return to place of purchase** - Within 7 days with the card
+4. **Visit Netone Service Center** - If the seller won't help
+5. **Call 111** - Report the faulty card
+
+## OTHER RECHARGE METHODS (No Scratch Card Needed)
+
+### OneMoney Recharge
+1. Dial **\*151#**
+2. Select option for "Buy Airtime"
+3. Choose amount
+4. Enter PIN
+5. Confirm
+
+### Bank App Recharge
+Most Zimbabwean banks offer airtime recharge:
+- CBZ Bank
+- Steward Bank
+- NMB Bank
+- FBC Bank
+- EcoCash
+
+### Online Recharge
+- Visit **www.onedigital.co.zw**
+- Select "Buy Airtime"
+- Enter your Netone number
+- Choose amount
+- Pay via credit card, OneMoney, or EcoCash
+
+### MyNetone App
+1. Download MyNetone app from Play Store or App Store
+2. Login with your Netone number
+3. Select "Recharge"
+4. Choose amount
+5. Confirm payment
+
+## AUTO-RECHARGE SETUP
+
+Never run out of airtime with auto-recharge:
+
+1. Dial **\*171\*2#**
+2. Select your preferred amount
+3. Choose frequency (daily, weekly, monthly)
+4. Confirm
+5. You'll receive confirmation SMS
+
+To cancel auto-recharge: Dial **\*171\*2\*0#**
+
+## CHECKING YOUR AIRTIME BALANCE
+
+- Dial **\*124#** to check airtime balance
+- Dial **\*123#** for main menu with balance information
+
+## RECHARGE HISTORY
+
+To check your last 5 recharges:
+1. Dial **\*171\*4#**
+2. Select "Recharge History"
+3. View last 5 transactions
+
+## BONUS AIRTIME
+
+When you recharge certain amounts, you receive bonus airtime:
+
+| Recharge Amount | Bonus | When Credited |
+|-----------------|-------|---------------|
+| .00 | 10% | Immediate |
+| .00 | 15% | Immediate |
+| .00 | 20% | Immediate |
+| .00 | 25% | Immediate |
+| .00 | 30% | Immediate |
+
+Bonus airtime can be used for calls, SMS, and data (except special services).
+
+## SCRATCH CARD SECURITY TIPS
+
+- **Scratch carefully** - Don't press too hard
+- **Keep PIN hidden** until ready to use
+- **Don't share PIN** with anyone
+- **Buy from authorized dealers only**
+- **Check card packaging** - Ensure it's not tampered with
+- **Recharge immediately** after purchasing
+- **Report lost/stolen cards** immediately to 111
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q: What is an "over scratched" card?**
+A: This is when you scratch too hard and damage the PIN digits, making them hard to read.
+
+**Q: Can I recover a damaged scratch card PIN?**
+A: Yes, visit any Netone service center with the damaged card and your ID. Staff can help verify and retrieve the PIN.
+
+**Q: How long are scratch cards valid?**
+A: Scratch cards typically have an expiry date printed on them, usually 6-12 months from purchase.
+
+**Q: Can I recharge with a scratch card from another country?**
+A: No, Netone scratch cards only work for Netone Zimbabwe lines.
+
+**Q: What if I lose my scratch card before using it?**
+A: Unfortunately, lost cards cannot be replaced. Treat them like cash.
+
+**Q: Can I get a refund for an unused scratch card?**
+A: Netone does not provide refunds for unused cards, but you can sell/gift it to someone else.
+
+**Q: Why did I get an "Invalid PIN" error?**
+A: This could mean: wrong PIN entered, card already used, or card expired. Double-check and try again.
+
+**Q: Is there a fee for using scratch cards?**
+A: No, you get the full face value plus any applicable bonus.
+
+## QUICK REFERENCE USSD CODES
+
+| Action | USSD Code |
+|--------|-----------|
+| Quick Recharge | \*133\*PIN# |
+| Recharge Menu | \*171# |
+| Check Balance | \*124# |
+| Buy Airtime via OneMoney | \*151# |
+| Auto-Recharge Setup | \*171\*2# |
+| Recharge History | \*171\*4# |
+| Customer Care | 111 |
+
+## CONTACT FOR SCRATCH CARD ISSUES
+
+If you have persistent issues with scratch cards:
+
+**Customer Care:** 111 (toll-free)
+**WhatsApp:** +263 78 200 1111
+**Email:** care@netone.co.zw
+**Visit:** Nearest Netone Service Center with your card and ID
+
+*Remember: Always scratch gently and recharge immediately for best results!*
+
+*Last Updated: March 2026*

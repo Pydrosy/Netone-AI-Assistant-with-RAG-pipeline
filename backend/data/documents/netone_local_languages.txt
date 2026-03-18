@@ -1,0 +1,122 @@
+﻿# NETONE - LOCAL LANGUAGE SUPPORT GUIDE (SHONA & NDEBELE)
+
+## COMMON SHONA PHRASES FOR NETONE SERVICES
+
+### Reverse Calling / Zero Balance Calls
+- **"164 wena?"** - What is 164? / How do I use 164? (Ndebele)
+- **"Handina mari, ndodaidza sei?"** - I have no airtime, how do I call? (Shona)
+- **"Ndingafona here ndisina mari?"** - Can I call without airtime? (Shona)
+- **"Fona yami ayina mali, ngifoneleni?"** - My phone has no airtime, call me? (Ndebele)
+- **"Pay for me inini?"** - What is Pay For Me? (Mixed)
+- **"Ndipe mafoni asina mari"** - Give me calls without airtime (Shona)
+- **"Ngifonela wena ngizokubhadala"** - Call me and I'll pay (Ndebele)
+
+### Tourist SIM Queries
+- **"Ndipe SIM yetourist"** - Give me tourist SIM (Shona/Ndebele)
+- **"SIM yevashanyi iripi?"** - Where is the tourist SIM? (Shona)
+- **"Ndiri mushanyi, ndoda SIM"** - I'm a tourist, I need a SIM (Shona)
+- **"SIM yamavakwasha ikutholakalaphi?"** - Where to get tourist SIM? (Ndebele)
+- **"Handina ID yekuZimbabwe"** - I don't have Zimbabwe ID (Shona)
+- **"Ngipasepoti kuphela"** - I only have passport (Ndebele)
+
+### Data Bundles
+- **"Ndipe data"** - Give me data (Shona/Ndebele)
+- **"Data yapera, ndotengei?"** - Data finished, how to buy? (Shona)
+- **"Data iphelile, ngithenge njani?"** - Data finished, how to buy? (Ndebele)
+- **"Ndinoda bundle"** - I want a bundle (Shona)
+- **"Ngifuna ibhandili"** - I want a bundle (Ndebele)
+- **"Bundle dzinodhura here?"** - Are bundles expensive? (Shona)
+- **"Iyi bundle ingakanani?"** - How much is this bundle? (Ndebele)
+
+### Airtime & Recharge
+- **"Ndipe airtime"** - Give me airtime (Shona)
+- **"Ngitshele airtime"** - Buy me airtime (Ndebele)
+- **"Ndinoda ku recharge"** - I want to recharge (Shona)
+- **"Ngifuna ukurecharge"** - I want to recharge (Ndebele)
+- **"Scratch card yapera sei?"** - How to use scratch card? (Shona)
+- **"Iskhafu kadi isebenza kanjani?"** - How does scratch card work? (Ndebele)
+
+### Network Problems
+- **"Network haisi kushanda"** - Network not working (Shona)
+- **"Inethiwekhi ayisebenzi"** - Network not working (Ndebele)
+- **"Signal yapera"** - Signal gone (Shona)
+- **"Isignali iphelile"** - Signal gone (Ndebele)
+- **"Ndotadza kufona"** - I can't call (Shona)
+- **"Angikwazi ukufona"** - I can't call (Ndebele)
+- **"Internet yangu haisi kumhanya"** - My internet is slow (Shona)
+- **"I-internet yami ayisheshi"** - My internet is slow (Ndebele)
+
+### Customer Support
+- **"Ndinoda rubatsiro"** - I need help (Shona)
+- **"Ngifuna usizo"** - I need help (Ndebele)
+- **"Ndinokumbirawo kubatsirwa"** - Please help me (Shona)
+- **"Ngicela usizo"** - Please help me (Ndebele)
+- **"Ndinoda kutaura nemunhu"** - I want to talk to a person (Shona)
+- **"Ngifuna ukukhuluma nomuntu"** - I want to talk to a person (Ndebele)
+
+### OneMoney Queries
+- **"Ndipe OneMoney"** - Give me OneMoney (Shona)
+- **"Ngifuna iOneMoney"** - I want OneMoney (Ndebele)
+- **"Ndinoda kutumira mari"** - I want to send money (Shona)
+- **"Ngifuna ukuthumela imali"** - I want to send money (Ndebele)
+- **"OneMoney yangu haishande"** - My OneMoney not working (Shona)
+- **"I-OneMoney yami ayisebenzi"** - My OneMoney not working (Ndebele)
+
+### Service Center Locations
+- **"Shop yeNetone iripi?"** - Where is Netone shop? (Shona)
+- **"Isitolo seNetone sikuphi?"** - Where is Netone shop? (Ndebele)
+- **"Ndinoda shop iripedyo"** - I want a nearby shop (Shona)
+- **"Ngifuna isitolo esiseduze"** - I want a nearby shop (Ndebele)
+
+## MAPPING LOCAL PHRASES TO SERVICES
+
+| Local Phrase | Service | English Translation |
+|--------------|---------|---------------------|
+| 164 wena? | Reverse Calling | What is 164? |
+| Handina mari, ndodaidza sei? | Reverse Calling | No airtime, how to call? |
+| Ndingafona here ndisina mari? | Reverse Calling | Can I call without airtime? |
+| Ndipe SIM yetourist | Tourist SIM | Give me tourist SIM |
+| SIM yevashanyi | Tourist SIM | Tourist SIM |
+| Ndipe data | Data Bundles | Give me data |
+| Data yapera | Data Bundles | Data finished |
+| Network haisi kushanda | Technical Support | Network not working |
+| Ndinoda rubatsiro | Customer Support | I need help |
+| Shop yeNetone iripi? | Service Centers | Where is Netone shop? |
+
+## COMMAND MAPPING FOR QUERY UNDERSTANDING
+
+When users ask questions containing these local terms, map them to these services:
+
+**Reverse Calling Triggers:**
+- "164", "wena", "handina mari", "no airtime", "pay for me", "ngifoneleni", "call me", "zero balance"
+
+**Tourist SIM Triggers:**
+- "tourist", "mushanyi", "vashanyi", "vakwasha", "passport", "pasepoti", "foreigner", "mutorwa"
+
+**Data Bundle Triggers:**
+- "data", "bundle", "ibhandili", "yapera", "iphelile", "finish", "tenga", "thenga", "buy"
+
+**Network Problem Triggers:**
+- "network", "signal", "haisi kushanda", "ayisebenzi", "not working", "slow", "nonhanya", "isheshi"
+
+**Customer Support Triggers:**
+- "rubatsiro", "usizo", "help", "batsirai", "siza", "person", "munhu", "umuntu"
+
+## EXAMPLE CONVERSATIONS
+
+**User:** "164 wena?"
+**System should understand:** User is asking about the 164 code for reverse calling
+
+**User:** "Handina mari ndodaidza sei?"
+**System should understand:** User has no airtime and wants to know how to make a call
+
+**User:** "SIM yevashanyi iripi?"
+**System should understand:** User is looking for tourist SIM location
+
+**User:** "Data yapera ndotengei?"
+**System should understand:** User's data is finished and wants to buy more
+
+**User:** "Network haisi kushanda"
+**System should understand:** User is experiencing network issues
+
+This guide helps map local language queries to the correct NetOne services and information.

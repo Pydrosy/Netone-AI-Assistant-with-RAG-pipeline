@@ -1,0 +1,47 @@
+﻿# NetOne Reverse Calling (Pay For Me) Service
+
+## What is Reverse Calling?
+
+Reverse Calling (also known as "Pay For Me") is a service that allows a caller to make a call without having airtime, by transferring the cost of the call to the receiver. This service ensures that communication is not hindered due to financial constraints, making it particularly useful for emergencies and urgent situations.
+
+## Key Benefits
+
+- **Make calls without airtime**: Users can make calls even when they have zero balance
+- **Emergency communication**: Essential for reaching help or loved ones during emergencies
+- **Uninterrupted conversations**: Keeps those fun conversations going even when you run out of airtime
+
+## How It Works
+
+### Zero Balance Call Attempt
+When a user with zero balance attempts to make a call, an Interactive Voice Response (IVR) notification automatically provides options to initiate a Reverse Call.
+
+### Using the Short Code
+Callers can directly initiate a Reverse Call by prefixing the recipient's number with the short code **164**.
+
+**Examples:**
+- For local numbers: 164712xxxxxx
+- For full numbers including country code: 164263712xxxxxx
+
+### Receiver Consent Process
+1. **Initiation**: Caller dials the recipient's number with the 164 prefix
+2. **Notification**: When the receiver answers, they hear an announcement about the Reverse Call request
+3. **Acceptance**: The receiver can accept the call by pressing any key on their phone
+4. **Rejection**: If the receiver wants to decline, they can simply hang up or not press any key
+
+### Charges and Requirements
+- **Receiver Balance**: The receiver must have a positive main account balance to accept Reverse Calls
+- **Bundles Note**: Reverse Call charges do not deduct from any data or voice bundles
+- **Call Rates**: If accepted, the receiver is billed at the standard Out of Bundle calling rates
+- **No Charge for Declined Calls**: If the receiver declines, the call disconnects without any charges to either party
+
+## Use Cases
+- Emergency situations when you need to contact someone urgently
+- When you unexpectedly run out of airtime
+- For important calls when you cannot immediately recharge
+- Staying connected during financial constraints
+
+## Important Notes
+- This service works on the NetOne network
+- Standard call rates apply to the receiver once they accept the call
+- The service is available 24/7
+- No registration required - it's automatically available to all NetOne subscribers

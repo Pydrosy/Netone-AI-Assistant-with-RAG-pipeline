@@ -1,0 +1,75 @@
+﻿# NETONE ZIMBABWE - ZWG BUNDLES (Local Currency)
+
+## HOW TO PURCHASE ZWG BUNDLES
+
+You can purchase ZWG bundles through the following methods:
+
+1. **OneMoney Mobile App** - Download from Google Play Store or Apple App Store
+2. **USSD** - Dial *171# then select the respective bundle
+3. **OneDigital Shop** - Visit www.onedigital.co.zw
+
+## ZWG DAILY DATA BUNDLES
+
+| Bundle Name | Amount (ZWG) | Validity | Benefits (MB) |
+|-------------|--------------|----------|---------------|
+| ZWG Daily Data Bundle | 26.00 | 24 Hours | 200 MB |
+| ZWG Daily Data Bundle | 57.60 | 24 Hours | 480 MB |
+
+## ZWG WEEKLY DATA BUNDLES
+
+| Bundle Name | Amount (ZWG) | Validity | Benefits (MB) |
+|-------------|--------------|----------|---------------|
+| ZWG Weekly Data Bundle | 24.96 | 7 Days | 160 MB |
+| ZWG Weekly Data Bundle | 36.40 | 7 Days | 350 MB |
+
+## ZWG MONTHLY DATA BUNDLES
+
+| Bundle Name | Amount (ZWG) | Validity | Benefits (MB) |
+|-------------|--------------|----------|---------------|
+| ZWG Monthly Data Bundle | 16.38 | 30 Days | 450 MB |
+| ZWG Monthly Data Bundle | 46.80 | 30 Days | 1,500 MB |
+
+## ZWG WHATSAPP BUNDLES
+
+| Bundle Name | Amount (ZWG) | Validity | Benefits (MB) |
+|-------------|--------------|----------|---------------|
+| ZWG Daily WhatsApp Bundle | 2.60 | 1 Day | 20 MB |
+| ZWG Weekly WhatsApp Bundle | 10.92 | 7 Days | 70 MB |
+| ZWG Weekly WhatsApp Bundle | 20.31 | 7 Days | 150 MB |
+| ZWG Monthly WhatsApp Bundle | 49.74 | 30 Days | 300 MB |
+
+## ZWG SMS BUNDLES
+
+| Bundle Name | Amount (ZWG) | Validity | Benefits (SMS) |
+|-------------|--------------|----------|----------------|
+| Daily SMS Bundle | 1.39 | 24 Hours | 25 SMS |
+| Weekly SMS Bundle | 10.40 | 7 Days | 200 SMS |
+
+## HOW TO CHECK BUNDLE BALANCE (ZWG)
+
+To check your ZWG bundle balance:
+
+- **USSD:** Dial *171#, choose "Balance Enquiry", then select the respective bundle
+- **Self-Service Portal:** https://selfservice.netone.co.zw/
+- **USSD Main Menu:** Dial *123# and select "Balance Enquiry"
+- **MyNetOne App:** Check balances in the app dashboard
+
+## BUNDLE USAGE TIPS
+
+- Monitor your downloads to avoid unexpected depletion
+- Restrict application background data
+- Reduce live streaming of videos to save data
+- Check your balance regularly using *171#
+
+## TROUBLESHOOTING
+
+**Q: Why is my bundle being depleted before expiry date?**
+A: Bundles are usage-based. Monitor your usage, restrict background data, and reduce live streaming to save data.
+
+**Q: Can I transfer my data bundles to someone else?**
+A: Unfortunately, bundle transfer is not available yet. However, you can buy bundles for someone using OneMoney (*111#) or use bundle gifting on *171#.
+
+**Q: How do I check my ZWG bundle balance?**
+A: Dial *171#, choose "Balance Enquiry", then select the respective bundle.
+
+*Last Updated: March 2026*

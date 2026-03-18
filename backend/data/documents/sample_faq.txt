@@ -1,0 +1,50 @@
+# NetOne Frequently Asked Questions
+
+## Account & Billing
+Q: How do I check my account balance?
+A: You can check your balance by dialing *123# on your NetOne line, or by logging into the MyNetOne app.
+
+Q: How can I pay my bill?
+A: NetOne accepts payments through:
+- Mobile money (Airtel Money, MTN Money)
+- Bank transfers
+- Credit/debit cards via our website
+- At any NetOne service center
+
+Q: When is my payment due?
+A: Your payment due date is shown on your monthly bill, typically 30 days from the billing date.
+
+## Network & Technical Support
+Q: What should I do if I have no network signal?
+A: Try these steps:
+1. Restart your phone
+2. Check if you're in a coverage area
+3. Remove and reinsert your SIM card
+4. Update your phone's network settings
+5. Contact support if issues persist
+
+Q: How do I set up my internet APN?
+A: For NetOne internet, use these settings:
+- APN: netone.internet
+- Username: (leave blank)
+- Password: (leave blank)
+- Authentication type: PAP or CHAP
+
+## Services & Plans
+Q: What internet packages do you offer?
+A: NetOne offers:
+- Daily bundles (from 100MB to 2GB)
+- Weekly bundles (from 1GB to 10GB)
+- Monthly bundles (from 5GB to 50GB)
+- Unlimited night browsing
+- Family share plans
+
+Q: How do I subscribe to a data bundle?
+A: Dial *123# and select "Data Bundles", or use the MyNetOne app.
+
+## Roaming
+Q: Does NetOne offer international roaming?
+A: Yes, NetOne has roaming agreements in over 50 countries. Activate roaming by dialing *123# or visiting a service center.
+
+Q: What are the roaming charges?
+A: Roaming charges vary by destination. Check our website for current rates or dial *123# for roaming options.

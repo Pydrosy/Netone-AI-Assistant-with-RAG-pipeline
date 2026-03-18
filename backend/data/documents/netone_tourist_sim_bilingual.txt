@@ -1,0 +1,85 @@
+﻿# NETONE - TOURIST SIM GUIDE (SHONA-ENGLISH BILINGUAL)
+
+## IMPORTANT: This guide provides answers in both Shona and English
+
+### MUBVUNZO: Tourist SIM inodhura here?
+**ENGLISH:** Is the Tourist SIM expensive?
+**SHONA:** Tourist SIM inodhura here?
+
+**MHINDURO / ANSWER:**
+- **SHONA:** Kwete! SIM pachayo ndeye **MAHARA** (FREE). Unongobhadhara bundle raunosarudza chete. Mitengo:  (3GB),  (5GB), kana  (10GB).
+- **ENGLISH:** No! The SIM card itself is **FREE**. You only pay for the bundle you choose. Prices:  (3GB),  (5GB), or  (10GB).
+
+### MUBVUNZO: Ndinowana kupi Tourist SIM?
+**ENGLISH:** Where do I get the Tourist SIM?
+**SHONA:** Ndinowana kupi Tourist SIM?
+
+**MHINDURO / ANSWER:**
+- **SHONA:** Unogona kuwana Tourist SIM paNetOne shop iri **paairport** paunosvika muZimbabwe. Tinarwo zvakare kune dzimwe NetOne shops dzose.
+- **ENGLISH:** You can get the Tourist SIM at the NetOne shop at the **airport** when you arrive in Zimbabwe. It's also available at other NetOne shops.
+
+### MUBVUNZO: Ndinoda SIM yevashanyi
+**ENGLISH:** I want a tourist SIM
+**SHONA:** Ndinoda SIM yevashanyi
+
+**MHINDURO / ANSWER:**
+- **SHONA:** Enda kuNetOne shop paairport uine passport yako. Vachakupa SIM mahara, wobva watenga bundle uchishandisa *401#.
+- **ENGLISH:** Go to the NetOne shop at the airport with your passport. They will give you a free SIM, then you can buy a bundle using *401#.
+
+### MUBVUNZO: Ndinoda chii kuti ndiwane SIM?
+**ENGLISH:** What do I need to get the SIM?
+**SHONA:** Ndinoda chii kuti ndiwane SIM?
+
+**MHINDURO / ANSWER:**
+- **SHONA:** Unongoda **passport yako yekunze** iri kushanda. Hapana ID yekuZimbabwe inodiwa.
+- **ENGLISH:** You only need your valid **foreign passport**. No Zimbabwe ID is required.
+
+### MUBVUNZO: Ndingaishandisa SIM iyi kwenguva yakareba sei?
+**ENGLISH:** How long can I use this SIM?
+**SHONA:** Ndingaishandisa SIM iyi kwenguva yakareba sei?
+
+**MHINDURO / ANSWER:**
+- **SHONA:** SIM pachayo inoshanda kwemazuva **90**. Mabundle ako anoshanda kwemazuva **30** ega ega.
+- **ENGLISH:** The SIM itself is valid for **90 days**. Your bundles are valid for **30 days** each.
+
+### MUBVUNZO: Ko kana ndoda kuwedzera data mushure memazuva 30?
+**ENGLISH:** What if I want to add more data after 30 days?
+**SHONA:** Ko kana ndoda kuwedzera data mushure memazuva 30?
+
+**MHINDURO / ANSWER:**
+- **SHONA:** Ungangotenga bundle imwe zvakare uchishandisa *401#. Bundle itsva inoshanda kwemamwe mazuva 30.
+- **ENGLISH:** You can simply buy another bundle using *401#. The new bundle will be valid for another 30 days.
+
+### ZVIRONGWA ZVETOURIST SIM (TOURIST SIM PACKAGES)
+| Mutengo (Price) | Data (GB) | Maminitsi (Minutes) | SMS | Hupenyu (Validity) |
+|-----------------|-----------|---------------------|-----|-------------------|
+| **** | 3 GB | 30 min | 30 | 30 mazuva / 30 days |
+| **** | 5 GB | 50 min | 50 | 30 mazuva / 30 days |
+| **** | 10 GB | 100 min | 100 | 30 mazuva / 30 days |
+
+### MAITIRO EKUVHURA SIM (ACTIVATION STEPS)
+**Nhanho / Step 1:** Enda kuNetOne shop paairport nepassport yako / Go to NetOne shop at the airport with your passport
+**Nhanho / Step 2:** Tora SIM mahara (FREE) / Get free SIM
+**Nhanho / Step 3:** Tenga airtime yebundle raunoda / Buy airtime for your chosen bundle
+**Nhanho / Step 4:** Dhara *401# pafoni yako / Dial *401# on your phone
+**Nhanho / Step 5:** Sarudza bundle raunoda (, , kana ) / Select your bundle (, , or )
+**Nhanho / Step 6:** Waita! Ikozvino unogona kushandisa / Done! You can now use your service
+
+### MAZWI ANOKOSHA (KEY TERMS)
+- **SIM Mahara** = Free SIM card
+- **Passport** = Passport (ndiyo chete inodiwa / only required)
+- **Airtime** = Mari yekufona / Call credit
+- **Bundle** = Hurongwa hwe data, maminitsi ne SMS / Package of data, minutes & SMS
+- ***401#** = Kosi yekutenga nekutarisa bundle / Code to buy and check bundle
+- **30 mazuva** = 30 days (hupenyu hwebundle / bundle validity)
+- **Data** = Internet data
+- **Maminitsi** = Minutes yekufona / Call minutes
+- **SMS** = Mameseji / Messages
+
+### RUBATSIRO MUCHISHONA (SUPPORT IN SHONA)
+Kana uchida rubatsiro muchiShona / If you need help in Shona:
+- **Fona / Call:** 111 (mahara / free)
+- **WhatsApp:** +263 78 200 1111
+- **Enda kuNetOne shop iri pedyo newe / Go to your nearest NetOne shop
+
+*Gwara iri rine Shona neEnglish / This guide has both Shona and English*

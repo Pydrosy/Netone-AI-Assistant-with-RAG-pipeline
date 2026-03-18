@@ -1,0 +1,175 @@
+﻿# NETONE ZIMBABWE - FREQUENTLY ASKED QUESTIONS & TROUBLESHOOTING
+
+## BUNDLES & USAGE
+
+### Q: How come my bundles are being depleted before their expiry date?
+**A:** Our bundles are usage-based. We strongly advise you to monitor your usage. You may need to:
+- Monitor your downloads
+- Restrict application background data
+- Reduce time spent live streaming videos to save your data
+- Check your balance regularly using *123# or *171#
+
+### Q: Is there a way I can transfer my data bundles to someone else's account?
+**A:** Unfortunately, the option to transfer bundles is not available for now. However, we have alternative facilities:
+- **Buy bundles for someone using OneMoney:** Dial *111#
+- **Bundle gifting:** Dial *171# and follow the prompts
+
+### Q: How to purchase NetOne bundles?
+**A:** Once you have recharged your NetOne SIM card with airtime:
+
+**For USD Bundles:**
+- Dial *379#
+- Choose "USD Bundles" option
+- Select a package of your choice
+
+**For ZWG Bundles:**
+- Dial *171#
+- Select "Bundles" option
+- Choose a package of your choice
+
+### Q: Which bundles does NetOne have?
+**A:** We currently have the following bundles:
+
+**Social Media Bundles:**
+- WhatsApp bundles
+- Facebook bundles
+- Instagram bundles
+- X (formerly Twitter) bundles
+
+**Voice Bundles:**
+- Dollar-A-Day voice bundles
+- Khuluma 24/7 voice bundles
+
+**Data Bundles:**
+- Pure data bundles (Daily, Weekly, Monthly)
+- Big Beautiful Bundles (BBB)
+- MoGigs Bundles
+- Night Bundle (10pm - 5am)
+- Hourly Data Bundles
+
+**SMS Bundles:**
+- Daily SMS bundles
+- Weekly SMS bundles
+- Monthly SMS bundles
+
+**Combo Bundles:**
+- OneFusion (Data + Voice + SMS)
+
+### Q: How to check bundle balance on a NetOne SIM card?
+**A:** 
+
+**For ZWG Bundle Balance:**
+- Dial *171#
+- Choose "Balance Enquiry"
+- Select the respective bundle
+
+**For USD Bundle Balance:**
+- Dial *379#
+- Choose "Balance Inquiry"
+- Select the respective bundle
+
+**General Balance Check:**
+- Dial *123#
+- Select "Balance Enquiry"
+
+**Online:**
+- Log onto: https://selfservice.netone.co.zw/
+- Use the MyNetOne mobile app
+
+## REGISTRATION & DEALERSHIP
+
+### Q: How to become a NetOne dealer?
+**A:** Become a NetOne dealer! Sell airtime and SIM cards to earn commissions. Join our dealership program today.
+
+### Requirements for Companies:
+- Certificate of incorporation
+- Company Summary [formerly: CR 5, CR 6, Memo and Articles of Association]
+- ID cards for the directors
+- Proof of residence for the directors
+- Valid Tax Clearance Certificate
+- VAT registration certificate
+- Operating License
+
+### Requirements for Individuals:
+- National ID card
+- Proof of residency
+- Tax Clearance Certificate
+- Operating / hawkers license
+
+### Q: Where can I get the dealer application forms?
+**A:** Visit any NetOne service center or download from www.netone.co.zw/dealers
+
+## TECHNICAL SUPPORT
+
+### Q: My internet is slow, what should I do?
+**A:** Try these steps:
+1. Check your data balance (dial *124#)
+2. Move to an area with better signal
+3. Restart your phone
+4. Toggle Airplane mode on/off
+5. Check if you're in a 4G coverage area
+6. Reset network settings if needed
+
+### Q: How do I set up my APN for internet?
+**A:** Use these settings:
+- APN: netone.internet
+- Username: (leave blank)
+- Password: (leave blank)
+- Authentication type: PAP or CHAP
+
+### Q: I can't make calls but data works, why?
+**A:** Your SIM must be fully registered before you can make calls. If already registered, dial 123, disconnect after establishing connection to activate your account.
+
+### Q: How do I check my phone's IMEI?
+**A:** Dial *#06#
+
+## ACCOUNT & BILLING
+
+### Q: How do I check my account balance?
+**A:** Dial *123# and follow the prompts.
+
+### Q: How do I check my data usage?
+**A:** Dial *124# for data balance.
+
+### Q: My account is locked, how do I unlock it?
+**A:** This means you have tried to recharge with a wrong or used voucher PIN. Call our Contact Centre on 123 or 121 to get your account unlocked.
+
+### Q: How do I recharge another prepaid account?
+**A:** Dial *133*Recharge PIN*Recipient's number# or *171#, select option (6) Airtime Recharge > Select option (2) - Other > Enter Voucher PIN then Confirm.
+
+### Q: I purchased my SIM card recently and I am failing to make calls but data is working. What could be the cause?
+**A:** Note that your SIM should be fully registered before you are able to make calls. If already registered, dial 133, disconnect after establishing connection in order to activate your account.
+
+## ONEMONEY
+
+### Q: How do I register for OneMoney?
+**A:** Dial *151# and follow the registration prompts.
+
+### Q: How do I send money via OneMoney?
+**A:** Dial *151*2#, enter recipient's number and amount, then confirm with your PIN.
+
+### Q: What are OneMoney transaction limits?
+**A:** 
+- Tier 1 (Basic): /day
+- Tier 2 (Standard): /day (with ID)
+- Tier 3 (Premium): ,000/day (full KYC)
+- Tier 4 (Business): ,000/day
+
+## ROAMING
+
+### Q: How do I activate international roaming?
+**A:** Dial *126*1# to activate roaming. Do this at least 24 hours before traveling.
+
+### Q: What are the roaming rates?
+**A:** Rates vary by zone. Zone 1 (SADC): voice .50/min, data .00/MB.
+
+## SELF-SERVICE
+
+### Q: What self-service options are available?
+**A:** 
+- **USSD:** *123# for main menu
+- **Website:** https://selfservice.netone.co.zw/
+- **Mobile App:** MyNetOne (Play Store/App Store)
+- **Online Shop:** www.onedigital.co.zw
+
+*Last Updated: March 2026*

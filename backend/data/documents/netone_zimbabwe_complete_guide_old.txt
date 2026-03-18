@@ -1,0 +1,415 @@
+﻿# NETONE ZIMBABWE - COMPLETE COMPANY GUIDE
+
+## COMPANY OVERVIEW
+Netone is a leading telecommunications company in Zimbabwe, providing mobile and internet services to millions of customers across the country. As a key player in Zimbabwe's digital transformation, Netone offers innovative communication solutions for individuals, businesses, and enterprises.
+
+**Founded:** 2005
+**Headquarters:** Harare, Zimbabwe
+**Coverage:** All 10 provinces of Zimbabwe
+**Subscribers:** Over 6 million active users
+**Mission:** Connecting Zimbabwe, Enabling Digital Dreams
+**Vision:** To be Zimbabwe's most trusted and innovative digital partner
+**Parent Company:** NetOne Holdings (Pvt) Ltd
+
+## CORE SERVICES
+
+### 1. MOBILE VOICE SERVICES
+Netone provides reliable voice calling services with crystal-clear quality:
+
+**Voice Plans:**
+- **Pay-As-You-Go:** Standard rates with no monthly commitment
+- **Postpaid Plans:** Monthly subscription with inclusive minutes
+- **OneFusion:** Hybrid plans combining voice and data
+- **Family & Friends:** Special rates for frequently called numbers
+- **International Calling:** Competitive rates to over 100 countries
+
+**International Call Rates:**
+- South Africa: .15/minute
+- United Kingdom: .25/minute
+- United States: .25/minute
+- China: .30/minute
+- Other African countries: .20/minute
+- Rest of World: .35/minute
+
+### 2. SMS & MESSAGING SERVICES
+- **Standard SMS:** Send text messages to any network in Zimbabwe
+- **Bulk SMS:** For businesses to reach customers
+- **International SMS:** Send messages worldwide
+- **Premium SMS:** Value-added services and subscriptions
+
+**SMS Rates:**
+- On-net (Netone to Netone): .05 per SMS
+- Off-net (to other networks): .10 per SMS
+- International SMS: .20 per SMS
+
+### 3. DATA & INTERNET SERVICES
+
+#### Prepaid Data Bundles (in USD/ZWL equivalent)
+| Bundle | Volume | Validity | Price (USD) |
+|--------|--------|----------|-------------|
+| Daily S | 100MB | 24 hours | .50 |
+| Daily M | 350MB | 24 hours | .00 |
+| Daily L | 750MB | 24 hours | .00 |
+| Daily XL | 1.5GB | 24 hours | .00 |
+
+#### Weekly Bundles
+| Bundle | Volume | Validity | Price (USD) |
+|--------|--------|----------|-------------|
+| Weekly S | 1GB | 7 days | .50 |
+| Weekly M | 3GB | 7 days | .00 |
+| Weekly L | 6GB | 7 days | .00 |
+| Weekly XL | 10GB | 7 days | .00 |
+
+#### Monthly Bundles
+| Bundle | Volume | Validity | Price (USD) |
+|--------|--------|----------|-------------|
+| Monthly S | 5GB | 30 days | .00 |
+| Monthly M | 12GB | 30 days | .00 |
+| Monthly L | 25GB | 30 days | .00 |
+| Monthly XL | 50GB | 30 days | .00 |
+| Monthly XXL | 100GB | 30 days | .00 |
+
+#### Night Bundles (12 AM - 5 AM)
+- Night Surfer: 5GB for .00 (valid for 7 nights)
+- Night Pro: 10GB for .50 (valid for 7 nights)
+- Night Unlimited: Unlimited for .00 per month
+
+#### Social Media Bundles
+- WhatsApp Only: 1GB for .50 (30 days)
+- Social Pack (WhatsApp, Facebook, Instagram): 2GB for .00 (30 days)
+- Social Plus (All social + TikTok): 3GB for .50 (30 days)
+
+#### Streaming Bundles
+- YouTube Daily: 500MB for .00 (24 hours)
+- YouTube Weekly: 2GB for .00 (7 days)
+- YouTube Monthly: 8GB for .00 (30 days)
+
+### 4. ONEFUSION BUNDLES (Voice + Data + SMS)
+
+#### Daily OneFusion
+- **OneFusion Daily S:** 150MB + 15 min + 25 SMS – .00
+- **OneFusion Daily M:** 400MB + 30 min + 50 SMS – .00
+- **OneFusion Daily L:** 800MB + 60 min + 100 SMS – .00
+
+#### Weekly OneFusion
+- **OneFusion Weekly S:** 1.5GB + 50 min + 50 SMS – .00
+- **OneFusion Weekly M:** 4GB + 150 min + 150 SMS – .00
+- **OneFusion Weekly L:** 8GB + 300 min + 300 SMS – .00
+
+#### Monthly OneFusion
+- **OneFusion Monthly S:** 8GB + 200 min + 200 SMS – .00
+- **OneFusion Monthly M:** 20GB + 500 min + 500 SMS – .00
+- **OneFusion Monthly L:** 40GB + 1000 min + 1000 SMS – .00
+
+### 5. ONEONE BUNDLES (Special Promotions)
+
+#### OneOne Daily Deals
+- **OneOne Daily 100MB:** .40 (24 hours)
+- **OneOne Daily 200MB + 10 min:** .70 (24 hours)
+- **OneOne Daily 500MB + 25 min:** .20 (24 hours)
+
+#### OneOne Weekly Specials
+- **OneOne Week 2GB:** .00 (7 days)
+- **OneOne Week 5GB + 50 min:** .50 (7 days)
+- **OneOne Week 10GB + 100 min + 100 SMS:** .00 (7 days)
+
+#### OneOne Monthly Offers
+- **OneOne Month 10GB:** .00 (30 days)
+- **OneOne Month 25GB + 200 min:** .00 (30 days)
+- **OneOne Month 50GB + 500 min + 500 SMS:** .00 (30 days)
+
+### 6. AIRTIME & RECHARGE OPTIONS
+
+#### Airtime Denominations
+| Amount (USD) | Bonus | Validity |
+|--------------|-------|----------|
+| .50 | No bonus | 24 hours |
+| .00 | No bonus | 3 days |
+| .00 | 10% bonus | 7 days |
+| .00 | 15% bonus | 14 days |
+| .00 | 20% bonus | 30 days |
+| .00 | 25% bonus | 30 days |
+| .00 | 30% bonus | 60 days |
+
+#### Recharge Methods
+1. **Airtime Scratch Cards:** Available at all Netone outlets
+2. **Electronic Recharge:** Via agents nationwide
+3. **Mobile Money:** EcoCash, OneMoney
+4. **Bank Apps:** CBZ, Steward Bank, NMB, FBC
+5. **Online:** Netone website and MyNetone app
+6. **USSD:** Dial *123# and follow prompts
+
+### 7. ONEMONEY - MOBILE MONEY SERVICE
+
+**OneMoney** is Netone's mobile money platform allowing users to:
+
+**Features:**
+- Send money to any mobile number in Zimbabwe
+- Receive money from friends and family
+- Pay bills (ZESA, TelOne, council rates)
+- Buy airtime for yourself and others
+- Withdraw cash at any Netone agent or EcoCash agent
+- Deposit cash at any Netone shop
+- Pay for goods and services at partner merchants
+- International remittances (coming soon)
+
+**Transaction Limits:**
+- Tier 1 (Basic): /day (no registration required)
+- Tier 2 (Standard): /day (with ID registration)
+- Tier 3 (Premium): ,000/day (full KYC)
+- Tier 4 (Business): ,000/day (business registration)
+
+**OneMoney Fees:**
+- Cash-in: Free at Netone shops
+- Cash-out: 2% of amount (minimum .20)
+- Transfers to OneMoney: Free
+- Transfers to other wallets: .10
+- Bill payments: Free
+- Merchant payments: Free
+
+### 8. ENTERPRISE & BUSINESS SOLUTIONS
+
+#### Business Voice Plans
+- **Business Starter:** 500 minutes + 500 SMS – /month
+- **Business Pro:** 1500 minutes + 1500 SMS – /month
+- **Business Enterprise:** 5000 minutes + 5000 SMS – Custom pricing
+
+#### Business Data Plans
+- **Business Basic:** 50GB – /month
+- **Business Plus:** 150GB – /month
+- **Business Premium:** 500GB – /month
+- **Dedicated Internet:** Leased lines with guaranteed bandwidth
+
+#### Corporate Solutions
+- **VPN Services:** Secure connectivity for remote teams
+- **Cloud Solutions:** Hosted PBX, cloud storage
+- **SMS Marketing:** Bulk SMS for customer engagement
+- **IoT Solutions:** Fleet tracking, smart metering for agriculture
+
+### 9. INTERNATIONAL ROAMING
+
+#### Roaming Partners
+Netone has roaming agreements with over 150 operators in 80+ countries:
+
+**Zone 1 (SADC):** South Africa, Botswana, Zambia, Mozambique, Namibia
+- Voice: .50/min
+- SMS: .15/SMS
+- Data: .00/MB
+
+**Zone 2 (Africa):** Kenya, Nigeria, Tanzania, Uganda, Rwanda
+- Voice: .80/min
+- SMS: .20/SMS
+- Data: .50/MB
+
+**Zone 3 (Europe):** UK, Germany, France, Italy, Spain
+- Voice: .00/min
+- SMS: .25/SMS
+- Data: .00/MB
+
+**Zone 4 (North America):** USA, Canada
+- Voice: .00/min
+- SMS: .25/SMS
+- Data: .00/MB
+
+**Zone 5 (Asia):** India, China, Japan, UAE
+- Voice: .20/min
+- SMS: .30/SMS
+- Data: .50/MB
+
+#### Roaming Bundles
+- **Travel Pass 1 Day:** 100MB + 10 min – .00
+- **Travel Pass 3 Days:** 300MB + 30 min – .00
+- **Travel Pass 7 Days:** 1GB + 100 min – .00
+- **Travel Pass 30 Days:** 5GB + 500 min – .00
+
+### 10. VALUE-ADDED SERVICES (VAS)
+
+#### Entertainment
+- **Netone Music:** Music streaming service – .50/day, .00/month
+- **Netone TV:** Mobile TV with 15+ channels – .00/day, .00/month
+- **GameZone:** Mobile gaming platform – Pay per game
+- **Sports Alerts:** Live scores and updates – .20/day
+
+#### Information Services
+- **News Alerts:** Daily news updates – .20/day
+- **Weather Updates:** Real-time weather info – .10/day
+- **Health Tips:** Health and wellness information – Free
+- **EduBundles:** Educational content for students – .00/month
+
+#### OneLibrary
+Access thousands of e-books and academic journals:
+- Daily access: .30
+- Weekly access: .50
+- Monthly access: .00
+- Student special: .00/month (with valid student ID)
+
+### 11. CUSTOMER SUPPORT
+
+#### Contact Channels
+- **Customer Care Hotline:** 111 (toll-free from Netone numbers)
+- **WhatsApp Support:** +263 78 200 1111
+- **Email:** care@netone.co.zw
+- **Facebook:** @NetoneZimbabwe
+- **Twitter/X:** @NetoneZim
+- **Instagram:** @netone_zim
+- **Website:** www.netone.co.zw
+
+#### Service Centers
+**Harare:**
+- Netone Headquarters – Sam Nujoma Street
+- Joina City – Ground Floor, Joina City Mall
+- Westgate Shopping Centre – Shop 15, Westgate
+- Avondale Shopping Centre – Shop 8, Avondale
+- University of Zimbabwe – Main Campus
+
+**Bulawayo:**
+- Fife Street – Corner Fife Street/9th Avenue
+- Bulawayo Centre – Shop 25, Bulawayo Centre
+- NUST – National University of Science & Technology
+
+**Other Cities:**
+- Mutare – Robert Mugabe Road
+- Gweru – Main Street
+- Kwekwe – Senga Road
+- Masvingo – Robert Mugabe Road
+- Chinhoyi – Magamba Way
+- Bindura – Shamva Road
+
+### 12. NETWORK COVERAGE
+
+#### 4G/LTE Coverage
+All provincial capitals and major towns:
+- Harare: 98% coverage
+- Bulawayo: 97% coverage
+- Manicaland (Mutare): 90% coverage
+- Midlands (Gweru, Kwekwe): 88% coverage
+- Masvingo: 85% coverage
+- Mashonaland West (Chinhoyi): 83% coverage
+- Mashonaland East (Marondera): 80% coverage
+- Mashonaland Central (Bindura): 78% coverage
+- Matabeleland North (Victoria Falls): 85% coverage
+- Matabeleland South (Gwanda): 75% coverage
+
+#### 3G Coverage
+Available in all district centers and major trading posts
+
+#### 2G/Edge Coverage
+Nationwide coverage including rural areas
+
+#### Network Quality
+- Voice Call Success Rate: 99.5%
+- Data Session Success Rate: 98.7%
+- Average Download Speed (4G): 30 Mbps
+- Peak Download Speed (4G+): 200 Mbps
+
+### 13. PROMOTIONS & SPECIAL OFFERS
+
+#### Current Promotions (March 2026)
+1. **Double Data Weekend:** Buy any data bundle on Friday, get 100% bonus on Saturday and Sunday
+2. **OneFamily:** Register up to 5 numbers and get 50% discount on calls between them
+3. **Night Owl:** 5GB night data for only .50 (12 AM - 5 AM)
+4. **Refer & Earn:** Refer a friend and both get .00 airtime
+5. **Loyalty Points:** Earn points on every recharge, redeem for bundles
+
+#### Seasonal Offers
+- **Back to School:** Special student bundles with 30% extra data
+- **Heroes' Day:** Free calls on Heroes' Day (August 12)
+- **Independence Day:** Special bundles for Independence Day (April 18)
+- **Christmas & New Year:** Double validity on all bundles during December
+
+### 14. HOW TO ACTIVATE SERVICES
+
+#### USSD Codes
+| Service | USSD Code |
+|---------|-----------|
+| Check Balance | *123# |
+| Buy Data | *123*1# |
+| Buy Voice Bundle | *123*2# |
+| Buy OneFusion | *123*3# |
+| OneOne Bundles | *123*4# |
+| Check Usage | *124# |
+| Customer Care | *111# |
+| Roaming Services | *125# |
+| My Account | *126# |
+| Airtime Transfer | *127# |
+| OneMoney | *151# |
+| Activate Roaming | *125*1# |
+
+#### OneMoney USSD Codes
+| Service | USSD Code |
+|---------|-----------|
+| OneMoney Menu | *151# |
+| Send Money | *151*2# |
+| Buy Airtime | *151*3# |
+| Pay Bill | *151*4# |
+| Check Balance | *151*5# |
+| Change PIN | *151*6# |
+
+#### MyNetone App Features
+- Download from Google Play Store or Apple App Store
+- View balance and usage
+- Purchase bundles
+- Manage account
+- View bills (postpaid)
+- Track orders
+- Chat with support
+- Find nearest service center
+- OneMoney integration
+
+### 15. TERMS & CONDITIONS
+
+#### Fair Usage Policy
+- Unlimited bundles subject to fair usage cap of 100GB/month
+- Video streaming may be optimized to standard definition
+- P2P file sharing not permitted on mobile data
+- Network management during peak hours (6 PM - 10 PM)
+
+#### Bundle Validity
+- Unused data expires at end of validity period
+- Auto-renewal optional for monthly bundles
+- Rollover available on selected premium bundles
+- OneFusion bundles have 7-day rollover on unused data
+
+#### Payment Terms
+- Prepaid: Pay before use
+- Postpaid: Monthly billing by 25th of each month
+- Late payment: .00 late fee after due date
+- Disconnection: Service suspended after 30 days overdue
+
+## QUICK REFERENCE SUMMARY
+
+| Service Type | Starting Price (USD) | Validity |
+|--------------|----------------------|----------|
+| Daily Data | .50 | 24 hours |
+| Weekly Data | .50 | 7 days |
+| Monthly Data | .00 | 30 days |
+| OneFusion Bundle | .00 | 24 hours |
+| OneOne Bundle | .40 | 24 hours |
+| Roaming Pass | .00 | 1 day |
+| OneMoney Transfer | Free | Instant |
+
+## KEY CONTACTS
+- **Customer Care:** 111 (toll-free)
+- **WhatsApp:** +263 78 200 1111
+- **Email:** care@netone.co.zw
+- **Website:** www.netone.co.zw
+- **Facebook:** @NetoneZimbabwe
+- **Twitter:** @NetoneZim
+- **Instagram:** @netone_zim
+- **OneMoney Support:** onemoney@netone.co.zw
+
+## CORPORATE OFFICE
+**Netone Headquarters**
+Sam Nujoma Street
+Harare, Zimbabwe
+Tel: +263 242 123 456
+Fax: +263 242 123 457
+
+## SOCIAL MEDIA HANDLES
+- **Facebook:** facebook.com/NetoneZimbabwe
+- **Twitter:** twitter.com/NetoneZim
+- **Instagram:** instagram.com/netone_zim
+- **YouTube:** youtube.com/NetoneZimbabwe
+- **LinkedIn:** linkedin.com/company/netone-zimbabwe
+
+*Last Updated: March 2026*

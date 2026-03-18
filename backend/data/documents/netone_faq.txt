@@ -1,0 +1,361 @@
+﻿# NETONE ZIMBABWE - FREQUENTLY ASKED QUESTIONS
+
+## ACCOUNT & BILLING
+
+**Q: How do I check my account balance?**
+A: Dial *123# from your Netone line. You can also check via the MyNetone app or website.
+
+**Q: How do I check my data usage?**
+A: Dial *124# to check your remaining data balance.
+
+**Q: How do I check my airtime balance?**
+A: Dial *125# to check your airtime balance.
+
+**Q: How do I get my Netone phone number?**
+A: Dial *130# and your number will be displayed on screen.
+
+**Q: How do I buy airtime for someone else?**
+A: Dial *128*[amount]*[recipient number]#, e.g., *128*5*0771234567#
+
+**Q: How do I transfer airtime to another Netone user?**
+A: Dial *127*[amount]*[recipient number]#, e.g., *127*5*0771234567#
+
+**Q: How do I check my bill for postpaid?**
+A: Dial *126# or log into the MyNetone app to view your bill.
+
+**Q: When is my postpaid bill due?**
+A: Bills are generated on the 25th of each month and due by the 5th of the following month.
+
+**Q: What happens if I pay late?**
+A: A late payment fee of .00 is charged. Service may be suspended after 30 days.
+
+**Q: How do I set up auto-recharge?**
+A: Log into the MyNetone app, go to Auto-Recharge, select your preferred bundle and payment method.
+
+## DATA BUNDLES
+
+**Q: What data bundles does Netone offer?**
+A: Netone offers daily, weekly, and monthly bundles ranging from 100MB to 100GB. See www.netone.co.zw/bundles for current offers.
+
+**Q: How do I buy a data bundle?**
+A: Dial *123*1# and follow the prompts, or use the MyNetone app.
+
+**Q: How do I check my remaining data?**
+A: Dial *124# to check your remaining data balance.
+
+**Q: Does unused data roll over?**
+A: Standard bundles do not roll over. Selected premium bundles may offer rollover - check bundle details.
+
+**Q: Why is my data finishing so quickly?**
+A: Video streaming, app updates, and background data can consume data quickly. Check your data usage in phone settings.
+
+**Q: Can I share my data with family/friends?**
+A: Yes, you can gift data via OneMoney or use the data sharing feature in MyNetone app.
+
+**Q: What is 4G+ and do I have it?**
+A: 4G+ is enhanced 4G with speeds up to 200 Mbps. Available in major cities if your device supports it.
+
+**Q: How do I set up internet on my phone?**
+A: APN settings: APN: netone.internet, Username: (blank), Password: (blank). Save and select this APN.
+
+## ONEMONEY MOBILE MONEY
+
+**Q: What is OneMoney?**
+A: OneMoney is Netone's mobile money platform that allows you to send/receive money, pay bills, buy airtime, and more.
+
+**Q: How do I register for OneMoney?**
+A: Dial *151# and follow the registration prompts. You'll need your name as per ID and a 4-digit PIN.
+
+**Q: How do I send money via OneMoney?**
+A: Dial *151*2#, enter recipient's number, amount, and your PIN.
+
+**Q: How do I check my OneMoney balance?**
+A: Dial *151*5# and enter your PIN.
+
+**Q: What are the transaction limits?**
+A: Tier 1: /day, Tier 2: /day (with ID), Tier 3: ,000/day (full KYC).
+
+**Q: What are the fees for OneMoney?**
+A: Cash-out: 2% (min .20), send to other wallets: .10. Cash-in and bill payments are free.
+
+**Q: How do I change my OneMoney PIN?**
+A: Dial *151*6# and follow the prompts to change your PIN.
+
+**Q: I forgot my PIN, what do I do?**
+A: Visit any Netone service center with your ID to reset your PIN.
+
+**Q: Can I send money to EcoCash?**
+A: Yes, OneMoney is interoperable with EcoCash.
+
+## ONEONE BUNDLES
+
+**Q: What are OneOne bundles?**
+A: OneOne bundles are special promotional bundles offering great value for data, voice, and SMS.
+
+**Q: What OneOne daily deals are available?**
+A: • 100MB: .40 (24h) • 200MB + 10min: .70 (24h) • 500MB + 25min: .20 (24h)
+
+**Q: What OneOne weekly specials are available?**
+A: • 2GB: .00 (7 days) • 5GB + 50min: .50 (7 days) • 10GB + 100min + 100 SMS: .00 (7 days)
+
+**Q: What OneOne monthly offers are available?**
+A: • 10GB: .00 (30 days) • 25GB + 200min: .00 (30 days) • 50GB + 500min + 500 SMS: .00 (30 days)
+
+**Q: How do I activate OneOne bundles?**
+A: Daily: *123*4*1# to *123*4*3#, Weekly: *123*4*4# to *123*4*6#, Monthly: *123*4*7# to *123*4*9#
+
+## VOICE & SMS
+
+**Q: How do I buy a voice bundle?**
+A: Dial *123*2# and select the bundle you want.
+
+**Q: What voice bundles are available?**
+A: Daily (10-60min), weekly (50-300min), and monthly (200-1000min) bundles.
+
+**Q: How do I check my remaining minutes?**
+A: Dial *123# and your balance will be displayed.
+
+**Q: How much does SMS cost?**
+A: On-net: .05, off-net: .10, international: .20 per SMS.
+
+**Q: How do I buy an SMS bundle?**
+A: SMS bundles are included in combo bundles. Standalone SMS bundles are not available.
+
+## ROAMING
+
+**Q: How do I activate international roaming?**
+A: Dial *126*1# to activate roaming. Do this at least 24 hours before traveling.
+
+**Q: What are the roaming rates?**
+A: Rates vary by zone. Zone 1 (SADC): voice .50/min, data .00/MB. Zone 2 (Africa): voice .80/min, data .50/MB.
+
+**Q: Are there roaming bundles?**
+A: Yes: 1-day (), 3-day (), 7-day (), 30-day ().
+
+**Q: How do I check roaming rates?**
+A: Dial *126*2# to check rates for your destination.
+
+**Q: Can I use my local bundles while roaming?**
+A: No, roaming has separate rates and bundles.
+
+## COVERAGE & NETWORK
+
+**Q: Where does Netone have coverage?**
+A: Netone covers all provincial capitals and major towns. 4G/LTE coverage: Harare (98%), Bulawayo (97%), Mutare (90%), Gweru (88%), Masvingo (85%).
+
+**Q: How can I check coverage in my area?**
+A: Visit www.netone.co.zw/coverage or call customer care at 111.
+
+**Q: Why do I have no signal?**
+A: Try restarting your phone, toggling airplane mode, or manually selecting network. If issue persists, check coverage map.
+
+**Q: How do I improve my signal?**
+A: Move to a window or higher ground, avoid basements, ensure you're in a coverage area.
+
+## TECHNICAL SUPPORT
+
+**Q: My internet is slow, what should I do?**
+A: Check your data balance, signal strength, close background apps, and try resetting network settings.
+
+**Q: How do I reset my APN settings?**
+A: Go to Settings → Mobile Networks → Access Point Names, create new APN with: netone.internet (username/password blank).
+
+**Q: I can't send SMS, what's wrong?**
+A: Check message center number, ensure you have SMS balance, and try restarting your phone.
+
+**Q: How do I check my phone's IMEI?**
+A: Dial *#06# to display your IMEI number.
+
+**Q: How do I update carrier settings on iPhone?**
+A: Go to Settings → General → About. If update available, prompt will appear.
+
+## DEVICE & SIM
+
+**Q: My SIM card is lost/stolen, what do I do?**
+A: Visit any Netone service center with your ID for a replacement SIM. Fee: .00.
+
+**Q: How long does SIM replacement take?**
+A: Replacement is immediate once verified.
+
+**Q: Can I keep my number when getting a new SIM?**
+A: Yes, your number remains the same.
+
+**Q: How do I activate a new SIM?**
+A: Insert SIM, make a call or send SMS, and it will activate automatically.
+
+## CUSTOMER SERVICE
+
+**Q: How do I contact customer care?**
+A: Call 111 (toll-free), WhatsApp +263 78 200 1111, or email care@netone.co.zw.
+
+**Q: What are customer care hours?**
+A: Call center: 24/7. Service centers: 8AM-5PM weekdays, 9AM-1PM Saturdays.
+
+**Q: Where is the nearest service center?**
+A: Visit www.netone.co.zw/branches or call 111 for nearest location.
+
+**Q: How do I give feedback about service?**
+A: Email feedback@netone.co.zw or use the feedback form on website.
+
+## BILLING & PAYMENTS
+
+**Q: What payment methods are accepted?**
+A: Airtime cards, electronic recharge, OneMoney, EcoCash, bank apps, website, MyNetone app.
+
+**Q: How do I pay my postpaid bill?**
+A: Via OneMoney, bank transfer, or at any Netone service center.
+
+**Q: Can I get a payment receipt?**
+A: Yes, receipts are sent via SMS or email. Request at service center.
+
+**Q: What if I was overcharged?**
+A: Contact customer care with details of transaction for investigation.
+
+## PROMOTIONS
+
+**Q: What promotions are currently running?**
+A: Dial *129# or visit www.netone.co.zw/promotions for current offers.
+
+**Q: How do I participate in promotions?**
+A: Follow instructions on the promotion page or dial the specified USSD code.
+
+**Q: How do I check if I've won a promotion?**
+A: Winners are notified via SMS. Check promotion terms for details.
+
+## MYNETONE APP
+
+**Q: How do I download the MyNetone app?**
+A: Available on Google Play Store and Apple App Store. Search "MyNetone Zimbabwe".
+
+**Q: What can I do on the MyNetone app?**
+A: Check balance, buy bundles, view bills, manage account, chat with support, find service centers.
+
+**Q: Is the app free?**
+A: Yes, download and use is free. Standard data charges apply.
+
+**Q: I can't log in to the app, what do I do?**
+A: Reset password via "Forgot Password" or contact customer care.
+
+## PRIVACY & SECURITY
+
+**Q: Is my information secure?**
+A: Yes, Netone complies with data protection regulations and uses encryption.
+
+**Q: How do I report fraud or suspicious activity?**
+A: Call 111 immediately or email fraud@netone.co.zw.
+
+**Q: What should I do if I receive suspicious SMS?**
+A: Do not click links, forward to 111 for investigation.
+
+**Q: How do I block unwanted calls/SMS?**
+A: Dial *133# to bar specific services or contact customer care.
+
+## DEVICE COMPATIBILITY
+
+**Q: Does my phone support 4G?**
+A: Check your phone specifications. Most modern smartphones support 4G.
+
+**Q: How do I know if my phone is 4G compatible?**
+A: Check in Settings → About Phone → Status. If you see 4G/LTE, it's supported.
+
+**Q: Can I use a Netone SIM in any phone?**
+A: Yes, Netone SIMs work in any unlocked GSM phone.
+
+**Q: What if my phone is locked to another network?**
+A: Contact your previous network to unlock, or use a different phone.
+
+## INTERNATIONAL SERVICES
+
+**Q: Can I call international numbers?**
+A: Yes, dial 00 + country code + number. International rates apply.
+
+**Q: What are international call rates?**
+A: South Africa: .15/min, UK/US: .25/min, China: .30/min, other Africa: .20/min.
+
+**Q: Can I receive international calls?**
+A: Yes, you can receive international calls at no additional cost.
+
+**Q: How do I buy international calling bundles?**
+A: Contact customer care for available international calling packages.
+
+## BUSINESS SERVICES
+
+**Q: What business solutions does Netone offer?**
+A: Business voice plans, data plans, VPN, cloud solutions, IoT, SMS marketing.
+
+**Q: How do I open a business account?**
+A: Visit any service center with company registration documents.
+
+**Q: Are there special rates for businesses?**
+A: Yes, volume discounts available. Contact business@netone.co.zw.
+
+**Q: How do I get a dedicated business line?**
+A: Call 111 and request business services or email business@netone.co.zw.
+
+## EMERGENCY SERVICES
+
+**Q: Can I call emergency numbers with no airtime?**
+A: Yes, emergency calls (999, 995, 993) are free and work even with zero balance.
+
+**Q: What are the emergency numbers in Zimbabwe?**
+A: Police: 999, Ambulance: 995, Fire: 993.
+
+**Q: Will my location be shared during emergency calls?**
+A: Yes, network can provide approximate location to emergency services.
+
+## ADDITIONAL SERVICES
+
+**Q: What is call waiting?**
+A: Service that notifies you of another incoming call while on a call.
+
+**Q: How do I activate call waiting?**
+A: Dial *43# to activate, #43# to deactivate.
+
+**Q: What is call forwarding?**
+A: Forwards calls to another number when unavailable.
+
+**Q: How do I set up call forwarding?**
+A: Dial **21*[number]# for unconditional, **61*[number]# for no answer, **62*[number]# for unreachable.
+
+**Q: What is voicemail?**
+A: Callers can leave voice messages when you're unavailable.
+
+**Q: How do I access voicemail?**
+A: Dial 123 from your Netone line.
+
+## TROUBLESHOOTING QUICK REFERENCE
+
+| Issue | Quick Fix |
+|-------|-----------|
+| No signal | Restart phone, toggle airplane mode |
+| Slow internet | Check data balance, move to better coverage |
+| Can't send SMS | Check SMS balance, restart phone |
+| Calls dropping | Move to better coverage area |
+| Can't access internet | Check APN settings |
+| OneMoney not working | Check PIN, ensure sufficient balance |
+| Can't buy bundle | Check airtime/data balance |
+| App not working | Update app, clear cache |
+| SIM not detected | Reinsert SIM, clean contacts |
+| Phone not charging | Check charger, battery |
+
+## USSD CODE QUICK REFERENCE
+
+| Code | Service |
+|------|---------|
+| *123# | Main menu / Check balance |
+| *123*1# | Buy data bundle |
+| *123*2# | Buy voice bundle |
+| *123*3# | Buy combo bundle |
+| *123*4# | OneOne bundles |
+| *124# | Check data usage |
+| *125# | Check airtime balance |
+| *126# | Postpaid services |
+| *127# | Airtime transfer |
+| *128# | Buy airtime for others |
+| *130# | Get my number |
+| *140*[number]# | Call me back |
+| *151# | OneMoney menu |
+| *111# | Customer care |
+| *#06# | Show IMEI |
+
+*Last Updated: March 2026*

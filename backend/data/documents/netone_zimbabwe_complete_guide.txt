@@ -1,0 +1,106 @@
+﻿# NETONE ZIMBABWE - COMPLETE COMPANY GUIDE (UPDATED 2026)
+
+## COMPANY OVERVIEW
+Netone is a leading telecommunications company in Zimbabwe, providing mobile and internet services to millions of customers across the country. As a key player in Zimbabwe's digital transformation, Netone offers innovative communication solutions for individuals, businesses, and enterprises.
+
+**Founded:** 2005
+**Headquarters:** Harare, Zimbabwe
+**Coverage:** All 10 provinces of Zimbabwe
+**Subscribers:** Over 6 million active users
+**Parent Company:** NetOne Holdings (Pvt) Ltd
+
+## CURRENT LEADERSHIP (2026)
+
+### Group Executive Committee
+| Position | Name |
+|----------|------|
+| **Group Chief Executive Officer** | **Eng. R. Mushanawani** |
+| Chief Technology Officer | Eng. Tendai Banda |
+| Chief Financial Officer | Mr. Kudzai Chikwanha |
+| Chief Commercial Officer | Ms. Rutendo Makoni |
+| Chief Operating Officer | Mr. Simba Dube |
+| Chief Marketing Officer | Ms. Nyaradzo Hove |
+
+### Board of Directors
+| Name | Position |
+|------|----------|
+| Eng. T. Maurikira | Board Chairman |
+| Dr. T. Zengeni | Board Vice Chair |
+| Dr. Eng. T. Garikayi | Member |
+| Dr. D.D. Mureyi | Member |
+| K. Musundire | Member |
+| T. Dzvetero | Member |
+| C. Boka | Member |
+| P.S Mupfiga | Member |
+| Eng. R. Mushanawani | Member (CEO) |
+| Eng. G.G. Jumbi | Member |
+| Dr. G. Manyaya | Member |
+
+*Note: Mrs. Chipo Mtasa served as CEO in previous years.*
+
+## CORE SERVICES
+
+### Mobile Voice Services
+- Pay-As-You-Go rates
+- Postpaid Plans
+- OneFusion hybrid plans
+- International Calling to 100+ countries
+
+### Data & Internet Services
+- Daily bundles (100MB to 1.5GB)
+- Weekly bundles (1GB to 10GB)
+- Monthly bundles (5GB to 100GB)
+- Night bundles (12 AM - 5 AM)
+- Social Media bundles (WhatsApp, Facebook, Instagram, X)
+- Streaming bundles (YouTube)
+
+### OneMoney Mobile Money
+- Send and receive money
+- Pay bills (ZESA, TelOne, council rates)
+- Buy airtime
+- Withdraw cash at agents
+- Merchant payments
+
+## ONEONE BUNDLES
+
+### Daily OneOne Deals
+- 100MB: .40 (24 hours)
+- 200MB + 10 min: .70 (24 hours)
+- 500MB + 25 min: .20 (24 hours)
+
+### Weekly OneOne Specials
+- 2GB: .00 (7 days)
+- 5GB + 50 min: .50 (7 days)
+- 10GB + 100 min + 100 SMS: .00 (7 days)
+
+### Monthly OneOne Offers
+- 10GB: .00 (30 days)
+- 25GB + 200 min: .00 (30 days)
+- 50GB + 500 min + 500 SMS: .00 (30 days)
+
+## CUSTOMER SUPPORT
+
+**Toll-Free:** 123 (from Netone lines)
+**WhatsApp:** +263 71 695 6243
+**Email:** care@netone.co.zw
+**Web Chat:** https://chat.netone.co.zw
+**Self-Service:** https://selfservice.netone.co.zw
+
+## HEAD OFFICE
+**Netone Headquarters**
+Sam Nujoma Street
+Harare, Zimbabwe
+
+## QUICK REFERENCE USSD CODES
+
+| Service | Code |
+|---------|------|
+| Check Balance | *123# |
+| Buy Data | *123*1# |
+| Buy Voice | *123*2# |
+| Buy OneFusion | *123*3# |
+| OneOne Bundles | *123*4# |
+| OneMoney | *151# |
+| Customer Care | *111# |
+
+*Last Updated: March 2026*

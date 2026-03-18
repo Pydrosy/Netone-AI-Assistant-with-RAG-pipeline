@@ -1,0 +1,89 @@
+﻿# NETONE - GWARA REVASHANYI MUCHISHONA (TOURIST SIM GUIDE IN SHONA)
+
+## Tourist SIM Card
+Tourist SIM ihurongwa hwakazara (Kutaura, SMS uye Data) hunopa kukosha kukuru uye kubatana kune vashanyi venguva pfupi pamutengo unodhura.
+
+## Tourist SIM Card
+Tourist SIM ndeye prepaid SIM yakagadzirirwa vafambi vanoda kubatana nekukasira vasina kunetseka nemakontrakiti enguva refu kana mapepa ekugara emuno. Sevhisi ichawanikwa kuvashanyi pavanosvika, uye ichawanikwa zviri nyore kuzviteshi zvendege.
+
+## Zvirongwa zveVashanyi (Tourist Bundles)
+| Mutengo | Peak Data (GB) | Off-Peak Data (GB) | Maminitsi Ekufona (All-Net) | SMS | Hupenyu hwebundle |
+|---------|----------------|---------------------|------------------------------|-----|-------------------|
+| **** | 2 | 1 | 30 min | 30 | 30 mazuva |
+| **** | 4 | 1 | 50 min | 50 | 30 mazuva |
+| **** | 8 | 2 | 100 min | 100 | 30 mazuva |
+
+## Maitiro Ekuvhura (Activation) Tourist SIM:
+Pazasi pane nhanho-nhanho yekubatsira vashanyi kuti vabatanidzwe neNetOne pavanosvika:
+
+### Nhanho 1: Kugamuchira & Kuzivisa
+Pavanosvika kuchitoro chiri paairport, zvizivise NetOne Tourist SIM zvinobva pamwoyo. Zivisa pachena kuti kadhi reSIM racho haribhadharwi uye mahara kuvashanyi.
+
+### Nhanho 2: Kunyorwa kwePassport Kunodiwa
+Kumbira passport yepakutanga, yakakodzera uye ichiri kushanda yemushanyi. Unofanira kuita kunyoreswa kunodiwa mudhatabhesi usati wapihwa SIM. Ita shuwa kuti mashoko ari paSIM anoenderana neari papeperu rekufambisa kuti musangane nemitemo yenyika.
+
+### Nhanho 3: Kubvunzurudza & Kutengeswa kweAirtime
+Kana mafambisirwo aya apedzwa, bvunzurudza mushanyi pamusoro pezvaanoda pa data nekuvafonera. Mutengese voucher yeNetOne Airtime inodiwa kuti vabhadhare bundle yeTourist yavakasarudza.
+
+### Nhanho 4: Kubatsira Kurodha Airtime
+Batsirai mushanyi kurodha airtime pafoni yake. Ita shuwa kuti chikwereti (balance) chave kuratidzwa zvakarurama paSIM itsva usati waenderera mberi.
+
+### Nhanho 5: Kugonesa Bundle kuburikidza ne *401#
+Tungamirira mutengi kuti adaire *401# pafoni yake. Tsanangurira menyu uye mubatsire kusarudza bundle yeTourist inokodzera nguva yavachagara. Simbisai kuti data, nguva dzekufona (talk time), uye SMS zvabva zvabatanidzwa zvichiita shanda vasati vabva pachikwata.
+
+## Mibvunzo Inowanzobvunzwa (Frequently Asked Questions - Shona)
+
+**Q: Tourist SIM inodhura here?**
+A: Kwete! SIM pachayo ndeye MAHARA (FREE) kuvashanyi vanenge vaine passport yekunze.
+
+**Q: Ndinowana kupi Tourist SIM?**
+A: Unogona kuiwana paNetOne shop iri paairport pavanosvika muZimbabwe.
+
+**Q: Ndinoda chii kuti ndiwane SIM?**
+A: Unongoda passport yako yekunze iri kushanda. Hapana ID yekuZimbabwe inodiwa.
+
+**Q: Ndingaishandisa SIM iyi kwenguva yakareba sei?**
+A: SIM pachayo inoshanda kwemazuva 90. Mabundle ako anoshanda kwemazuva 30.
+
+**Q: Ko kana ndoda kuwedzera data?**
+A: Ungangotenga bundle imwe zvakare uchishandisa *401#.
+
+**Q: Ndingafona kunze kwenyika neSIM iyi?**
+A: Kufona kunze hakuna mubundle. Unogona kushandisa airtime yako asi uchabhadhara mitengo yakasiyana.
+
+## Mitemo nemamiriro (Terms and Conditions)
+
+- **Mahara SIM:** Kadhi reTourist SIM richapihwa kune vanokodzera mahara (FREE).
+
+- **Zvinodiwa:** Kadhi reTourist SIM richapihwa chero muenzi anopa chitupa chakakodzera chiri chekunze senge passport yekunze iri kushanda kana chimwe chinyorwa chekufambisa chiri pamutemo.
+
+- **Mhando dzeSIM:** Kadhi reTourist SIM richawanikwa seSIM yemuviri (physical SIM) uye se eSIM.
+
+- **Hupenyu hweSIM:** SIM ichave ichishanda kwemazuva 90 kubva pazuva rekugoneswa (activation date).
+
+- **USSD Code:** Kubvunza nezve subscription uye balance rebundle reTourist SIM kuchawanikwa paUSSD code **\*401#**.
+
+- **Hupenyu hweBundle:** Bundle reTourist richave rine validity yemazuva 30. Pashure pekupera kwenguva iyi, chero zvikamu zvisina kushandiswa zvichaparara uye hazvigone kudzoswa kana kushandiswa paSIM imwe.
+
+- **Kushandiswa muZimbabwe chete:** Mabasa ari mubundle anoshandiswa mukati meZimbabwe chete: kufona kwekunze nekutumira SMS kunze hakusanganiswi. Kune masevhisi epasi rese, vanoshandisa vanofanirwa kurodha wallet yavo huru uye vachabhadharwa pamitengo yematrendi yekunze.
+
+- **Hazvishandiswe kumapromotion:** Tourist SIM haigoni kushandiswa kutenga zvigadzirwa zvemuno, mamwe mabundle uye/kana kushandiswa mukusimudzira kunowanikwa pamusika kwenguva dzose.
+
+- **Mutengo wemutengi:** Mutengi ane basa rekuchengetedza nekuishandisa Tourist SIM zvakanaka. NetOne haizokwanisi kutakurwa mutoro wemutengi pakuparara, kuba kana kushandiswa zvisirizvo kweTourist SIM.
+
+- **Shanduko:** Kugamuchira chiziviso chakakodzera, mvumo yevanotonga (POTRAZ) uye maererano nezvinodiwa zvakajairika, NetOne inogona, pakusarudza kwayo, kushandura chero kana zvese zve Tourist SIM kune vamwe kana vese vatengi nekupa chiziviso chakakodzera pamberi pasina kukanganisa masubscription aripo.
+
+## Mazwi Anokosha (Key Terms)
+- **SIM Card** - Kadhi reSIM
+- **Airtime** - Mari yekufona
+- **Bundle** - Hurongwa hwe data, maminitsi ne SMS
+- **Activation** - Kugonesa / Kuvhura
+- **Balance** - Chikwereti / Zvasara
+- **Validity** - Hupenyu hwebundle
+- **Free** - Mahara / Pasina muripo
+- **Passport** - Passport / Chitupa chekufambisa
+
+## Quick Reference USSD Code
+Dhara **\*401#** pazvinhu zvese zveTourist SIM
+
+*Iyi ndiyo gwara repamutemo reTourist SIM muchiShona*

@@ -1,0 +1,69 @@
+﻿# NETONE - LOCAL LANGUAGE SUPPORT GUIDE (SHONA & NDEBELE)
+# IMPORTANT: This document contains mappings for local language queries
+
+## DIRECT MAPPINGS FOR COMMON QUERIES
+
+### REVERSE CALLING / 164 CODE (Shona/Ndebele)
+The 164 code is for Reverse Calling (Pay For Me) service. Here are local language queries about 164:
+
+- **"164 wena?"** - This means "What is 164?" in Ndebele. The answer is: 164 is the code for Reverse Calling, which lets you call when you have no airtime.
+- **"164"** - The short code for Reverse Calling service
+- **"wena"** - Means "you" in Ndebele, often used with 164
+- **"164 yini?"** - "What is 164?" in Ndebele
+- **"164 chii?"** - "What is 164?" in Shona
+- **"164 ndoshandisa sei?"** - "How do I use 164?" in Shona
+- **"164 ngisebenzisa kanjani?"** - "How do I use 164?" in Ndebele
+
+### REVERSE CALLING KEYWORDS MAPPING
+When users ask about:
+- "164" + "wena" = They want to know about Reverse Calling
+- "164" + "yini" = They want to know about Reverse Calling
+- "164" + "chii" = They want to know about Reverse Calling
+- "pay for me" + "inini" = They want to know about Reverse Calling
+
+### SERVICE MAPPING TABLE
+
+| Local Query | English Meaning | Service | Answer Reference |
+|-------------|-----------------|---------|------------------|
+| 164 wena? | What is 164? | Reverse Calling | The 164 code lets you make calls with zero airtime |
+| 164 yini? | What is 164? (Ndebele) | Reverse Calling | Dial 164 before a number for reverse charges |
+| 164 chii? | What is 164? (Shona) | Reverse Calling | Use 164 to call when you have no airtime |
+| Handina mari ndodaidza sei? | No airtime, how to call? | Reverse Calling | Use 164 prefix for reverse calling |
+| Ndingafona here ndisina mari? | Can I call without airtime? | Reverse Calling | Yes, use 164 for reverse calling |
+| Ngifonela wena ngizokubhadala | Call me and I'll pay | Reverse Calling | This is reverse calling - use 164 |
+
+## QUICK REFERENCE FOR QUERY UNDERSTANDING
+
+### When you see these terms, they are asking about REVERSE CALLING (164):
+- "164" + any local word (wena, yini, chii, kanjani, sei)
+- "wena" + "164"
+- "pay for me" + "inini"
+- "handina mari" (no airtime)
+- "ngifonela" (call me)
+- "ndodaidza sei" (how to call)
+- "ndisina mari" (without airtime)
+
+## EXAMPLES OF HOW TO INTERPRET LOCAL QUERIES
+
+**User types:** "164 wena?"
+**This means:** User is asking about the 164 code for reverse calling
+**Correct response:** Explain that 164 is the prefix for Reverse Calling, which lets them call even with zero balance
+
+**User types:** "164 yini?"
+**This means:** Same as above - asking about 164 code
+**Correct response:** Explain Reverse Calling service
+
+**User types:** "handina mari ndodaidza sei?"
+**This means:** User has no airtime and wants to know how to call
+**Correct response:** Explain Reverse Calling using 164 prefix
+
+**User types:** "ngifonela wena"
+**This means:** User wants someone to call them and they'll pay
+**Correct response:** Explain Reverse Calling service
+
+## IMPORTANT: ALL QUERIES CONTAINING "164" SHOULD RETURN REVERSE CALLING INFO
+Any query with "164" in it, especially when combined with local words, is asking about the Reverse Calling service. The answer should always explain:
+1. 164 is the Reverse Calling prefix
+2. How to use it (dial 164 + phone number)
+3. That the receiver pays
+4. That it works with zero balance
