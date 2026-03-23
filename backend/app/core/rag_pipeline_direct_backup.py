@@ -1,5 +1,6 @@
 ﻿"""
-Direct Groq RAG Pipeline with FAISS vector store
+Simplified RAG Pipeline with Direct Groq API Calls
+No LangChain Groq dependency issues
 """
 
 import os
@@ -9,7 +10,7 @@ from typing import List, Dict, Any, Tuple, Optional
 from datetime import datetime
 import json
 
-# Stable LangChain imports
+# Stable LangChain imports (these work)
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -21,7 +22,7 @@ from ..config import settings
 logger = logging.getLogger(__name__)
 
 class DirectGroqRAGPipeline:
-    """RAG Pipeline using direct Groq API calls"""
+    """RAG Pipeline using direct Groq API calls (no LangChain Groq dependency)"""
     
     def __init__(self):
         logger.info("Initializing Direct Groq RAG Pipeline...")
@@ -37,9 +38,6 @@ class DirectGroqRAGPipeline:
         self.vector_store = None
         self.persist_directory = "./faiss_index"
         os.makedirs(self.persist_directory, exist_ok=True)
-        
-        # Try to load existing FAISS index
-        self._load_existing_index()
         
         # Initialize text splitter
         self.text_splitter = RecursiveCharacterTextSplitter(
@@ -57,24 +55,6 @@ class DirectGroqRAGPipeline:
             logger.warning("⚠️ No Groq API key found")
         
         logger.info("✅ Direct Groq RAG Pipeline initialized")
-    
-    def _load_existing_index(self):
-        """Load existing FAISS index if available"""
-        try:
-            index_path = os.path.join(self.persist_directory, "index.faiss")
-            if os.path.exists(index_path):
-                logger.info("Loading existing FAISS index...")
-                # CORRECTED: No allow_dangerous_deserialization parameter for this LangChain version
-                self.vector_store = FAISS.load_local(
-                    self.persist_directory,
-                    self.embeddings
-                )
-                logger.info(f"✅ Loaded FAISS index with {self.vector_store.index.ntotal} vectors")
-            else:
-                logger.info("No existing FAISS index found, will create new one on first ingestion")
-        except Exception as e:
-            logger.error(f"Error loading FAISS index: {e}")
-            logger.info("Will create new index on first ingestion")
     
     def _call_groq_api(self, prompt: str) -> str:
         """Direct call to Groq API"""
@@ -152,18 +132,27 @@ class DirectGroqRAGPipeline:
         try:
             logger.info(f"💬 Generating response for: {query[:50]}...")
             
-            # Check if vector store is loaded
+            # Load or use vector store
             if self.vector_store is None:
-                return {
-                    "answer": "No documents have been ingested yet. Please add documents first.",
-                    "sources": []
-                }
+                # Try to load existing index
+                index_path = os.path.join(self.persist_directory, "index.faiss")
+                if os.path.exists(index_path):
+                    self.vector_store = FAISS.load_local(
+                        self.persist_directory,
+                        self.embeddings
+                    )
+                    logger.info("Loaded existing FAISS index")
+                else:
+                    return {
+                        "answer": "No documents have been ingested yet. Please add documents first using the admin interface.",
+                        "sources": []
+                    }
             
             # Search for relevant documents
-            docs_with_scores = self.vector_store.similarity_search_with_score(query, k=3)
+            docs_with_scores = self.vector_store.similarity_search_with_score(query, k=5)
             
             if not docs_with_scores:
-                # No relevant documents found, use general knowledge
+                # No relevant documents found, still try to answer with general knowledge
                 prompt = f"""The user asked: "{query}"
 
 As NetOne's AI assistant, please provide a helpful response. If this is about specific services or plans, note that you don't have specific documentation loaded yet, but provide general guidance."""
@@ -205,7 +194,7 @@ Context information:
 Customer question: {query}
 
 Please provide a helpful, accurate answer based ONLY on the context provided. If the answer isn't in the context, say so politely."""
-            
+
             # Get answer from Groq
             answer = self._call_groq_api(prompt)
             
@@ -228,9 +217,9 @@ Please provide a helpful, accurate answer based ONLY on the context provided. If
                 count = self.vector_store.index.ntotal
             else:
                 # Try to get count from saved index
-                import faiss
                 index_path = os.path.join(self.persist_directory, "index.faiss")
                 if os.path.exists(index_path):
+                    import faiss
                     index = faiss.read_index(index_path)
                     count = index.ntotal
                 else:

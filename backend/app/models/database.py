@@ -41,9 +41,10 @@ class Conversation(Base):
     __tablename__ = "conversations"
     
     id = Column(Integer, primary_key=True, index=True)
-    user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=False)
-    title = Column(String(255), nullable=False)
-    status = Column(String(50), default="active")  # active, archived, deleted
+    user_id = Column(Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True)
+    session_id = Column(String(100), nullable=False, index=True)
+    title = Column(String(255), nullable=True)
+    status = Column(String(50), default="active")
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
     
@@ -56,16 +57,37 @@ class Message(Base):
     
     id = Column(Integer, primary_key=True, index=True)
     conversation_id = Column(Integer, ForeignKey("conversations.id", ondelete="CASCADE"), nullable=False)
-    role = Column(String(50), nullable=False)  # 'user' or 'assistant'
+    role = Column(String(50), nullable=False)
     content = Column(Text, nullable=False)
-    sources = Column(JSON, nullable=True)  # Document sources used
+    sources = Column(JSON, nullable=True)
     tokens_used = Column(Integer, nullable=True)
     latency_ms = Column(Integer, nullable=True)
+    feedback_rating = Column(Integer, nullable=True)
+    feedback_text = Column(Text, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
     
     # Relationships
     conversation = relationship("Conversation", back_populates="messages")
     feedback = relationship("Feedback", back_populates="message", uselist=False)
+    training_data = relationship("TrainingData", back_populates="original_message", uselist=False)  # ADDED
+
+class TrainingData(Base):
+    __tablename__ = "training_data"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    message_id = Column(Integer, ForeignKey("messages.id", ondelete="SET NULL"), nullable=True)
+    user_question = Column(Text, nullable=False)
+    assistant_response = Column(Text, nullable=False)
+    sources_used = Column(JSON, nullable=True)
+    was_helpful = Column(Boolean, default=False)
+    user_rating = Column(Integer, nullable=True)
+    improved_response = Column(Text, nullable=True)
+    is_approved = Column(Boolean, default=False)
+    tags = Column(JSON, nullable=True)
+    created_at = Column(DateTime, default=datetime.utcnow)
+    
+    # Relationships
+    original_message = relationship("Message", back_populates="training_data")
 
 class Document(Base):
     __tablename__ = "documents"
@@ -74,11 +96,11 @@ class Document(Base):
     title = Column(String(255), nullable=False)
     filename = Column(String(255), nullable=False)
     content_type = Column(String(100), nullable=False)
-    category = Column(String(100), nullable=False)  # 'faq', 'product', 'technical', 'billing', 'policy'
+    category = Column(String(100), nullable=False)
     description = Column(Text, nullable=True)
     file_path = Column(String(500), nullable=False)
     chunk_count = Column(Integer, default=0)
-    doc_metadata = Column(JSON, nullable=True)  # CHANGED: was 'metadata'
+    doc_metadata = Column(JSON, nullable=True)
     created_by = Column(Integer, ForeignKey("users.id"), nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
@@ -93,9 +115,9 @@ class Feedback(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True)
     message_id = Column(Integer, ForeignKey("messages.id", ondelete="CASCADE"), nullable=False)
-    rating = Column(Integer, nullable=False)  # 1-5 or thumbs up/down (1/0)
+    rating = Column(Integer, nullable=False)
     feedback_text = Column(Text, nullable=True)
-    category = Column(String(100), nullable=True)  # 'accuracy', 'helpfulness', 'speed'
+    category = Column(String(100), nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
     
     # Relationships
@@ -106,10 +128,10 @@ class SystemLog(Base):
     __tablename__ = "system_logs"
     
     id = Column(Integer, primary_key=True, index=True)
-    level = Column(String(50), nullable=False)  # INFO, ERROR, WARNING
+    level = Column(String(50), nullable=False)
     module = Column(String(100), nullable=False)
     message = Column(Text, nullable=False)
-    log_metadata = Column(JSON, nullable=True)  # CHANGED: was 'metadata'
+    log_metadata = Column(JSON, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
 
 class RateLimit(Base):
