@@ -1,5 +1,3 @@
-Complete README.md for Netone AI Assistant
-markdown
 # Netone AI Assistant 🤖
 
 An intelligent customer service assistant for **Netone Zimbabwe** powered by RAG (Retrieval-Augmented Generation) technology. This AI assistant provides instant, accurate responses about Netone's services, bundles, SIM cards, company information, and more - available 24/7.
@@ -32,7 +30,7 @@ An intelligent customer service assistant for **Netone Zimbabwe** powered by RAG
 Netone AI Assistant is a production-ready conversational AI system designed specifically for **Netone Zimbabwe**, one of the country's leading telecommunications providers. The assistant leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware responses based on official Netone documentation.
 
 **Key Highlights:**
-- ✅ **103 knowledge chunks** across 13 documents
+- ✅ **19  knowledge chunks** across 151 documents
 - ✅ **Response time:** < 2 seconds
 - ✅ **24/7 availability** - never sleeps
 - ✅ **Source attribution** - shows where information comes from
@@ -136,7 +134,4 @@ All contributors who help improve this project
 
 ⭐ Support
 If you find this project useful, please consider giving it a star on GitHub!
-
-Built with ❤️ for Zimbabwe 🇿🇼
-
 Last Updated: March 2026
