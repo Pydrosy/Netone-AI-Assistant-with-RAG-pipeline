@@ -2,6 +2,12 @@
 
 An intelligent customer service assistant for **Netone Zimbabwe** powered by RAG (Retrieval-Augmented Generation) technology. This AI assistant provides instant, accurate responses about Netone's services, bundles, SIM cards, company information, and more - available 24/7.
 
+Demo of the assistant 
+
+
+https://github.com/user-attachments/assets/960680cd-c7e9-4369-bda6-1e8c5817635a
+
+
 <img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/336c9d91-2e90-4464-8f2c-03d173df0eec" />
 
 
